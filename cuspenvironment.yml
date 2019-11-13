@@ -247,5 +247,5 @@ dependencies:
     - simplejson==3.16.0
     - smopy==0.0.6
     - sompy==0.1.1
-prefix: /anaconda3/envs/gsa2018
+prefix: /anaconda3/envs/cusplondon
 
