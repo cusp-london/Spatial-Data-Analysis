@@ -43,10 +43,10 @@ E01000043,Barking and Dagenham 019B,Year ending Dec 2017,367455,Mean
 E01000044,Barking and Dagenham 016D,Year ending Dec 2017,293614,Mean
 E01000045,Barking and Dagenham 017C,Year ending Dec 2017,325552,Mean
 E01000046,Barking and Dagenham 017D,Year ending Dec 2017,286407,Mean
-E01000048,Barking and Dagenham 021B,Year ending Dec 2017,:,Mean
+E01000048,Barking and Dagenham 021B,Year ending Dec 2017,,Mean
 E01000049,Barking and Dagenham 021C,Year ending Dec 2017,288143,Mean
 E01000050,Barking and Dagenham 019C,Year ending Dec 2017,282315,Mean
-E01000051,Barking and Dagenham 021D,Year ending Dec 2017,:,Mean
+E01000051,Barking and Dagenham 021D,Year ending Dec 2017,,Mean
 E01000052,Barking and Dagenham 019D,Year ending Dec 2017,309305,Mean
 E01000053,Barking and Dagenham 020A,Year ending Dec 2017,237722,Mean
 E01000054,Barking and Dagenham 018A,Year ending Dec 2017,282944,Mean
@@ -145,7 +145,7 @@ E01000146,Barnet 038D,Year ending Dec 2017,1137918,Mean
 E01000147,Barnet 030A,Year ending Dec 2017,571000,Mean
 E01000148,Barnet 030B,Year ending Dec 2017,272911,Mean
 E01000150,Barnet 036A,Year ending Dec 2017,380600,Mean
-E01000151,Barnet 026B,Year ending Dec 2017,:,Mean
+E01000151,Barnet 026B,Year ending Dec 2017,,Mean
 E01000152,Barnet 026C,Year ending Dec 2017,417188,Mean
 E01000153,Barnet 026D,Year ending Dec 2017,348571,Mean
 E01000154,Barnet 026E,Year ending Dec 2017,331375,Mean
@@ -415,7 +415,7 @@ E01000418,Bexley 002B,Year ending Dec 2017,324048,Mean
 E01000419,Bexley 006C,Year ending Dec 2017,395767,Mean
 E01000420,Bexley 006D,Year ending Dec 2017,372623,Mean
 E01000421,Bexley 009D,Year ending Dec 2017,392395,Mean
-E01000422,Bexley 002C,Year ending Dec 2017,:,Mean
+E01000422,Bexley 002C,Year ending Dec 2017,,Mean
 E01000423,Bexley 025C,Year ending Dec 2017,535225,Mean
 E01000424,Bexley 026A,Year ending Dec 2017,478029,Mean
 E01000425,Bexley 025D,Year ending Dec 2017,504454,Mean
@@ -458,8 +458,8 @@ E01000461,Bexley 024E,Year ending Dec 2017,534500,Mean
 E01000462,Bexley 026E,Year ending Dec 2017,328756,Mean
 E01000463,Bexley 025E,Year ending Dec 2017,423798,Mean
 E01000464,Bexley 002D,Year ending Dec 2017,250600,Mean
-E01000465,Bexley 002E,Year ending Dec 2017,:,Mean
-E01000466,Bexley 001A,Year ending Dec 2017,:,Mean
+E01000465,Bexley 002E,Year ending Dec 2017,,Mean
+E01000466,Bexley 001A,Year ending Dec 2017,,Mean
 E01000467,Bexley 001B,Year ending Dec 2017,284667,Mean
 E01000468,Bexley 001C,Year ending Dec 2017,282396,Mean
 E01000469,Bexley 001D,Year ending Dec 2017,240677,Mean
@@ -467,7 +467,7 @@ E01000470,Bexley 002F,Year ending Dec 2017,219357,Mean
 E01000471,Brent 026A,Year ending Dec 2017,433333,Mean
 E01000472,Brent 029A,Year ending Dec 2017,288615,Mean
 E01000473,Brent 029B,Year ending Dec 2017,309136,Mean
-E01000474,Brent 026B,Year ending Dec 2017,:,Mean
+E01000474,Brent 026B,Year ending Dec 2017,,Mean
 E01000475,Brent 029C,Year ending Dec 2017,451429,Mean
 E01000476,Brent 026C,Year ending Dec 2017,445286,Mean
 E01000477,Brent 026D,Year ending Dec 2017,306609,Mean
@@ -475,9 +475,9 @@ E01000478,Brent 029D,Year ending Dec 2017,427772,Mean
 E01000479,Brent 009A,Year ending Dec 2017,901875,Mean
 E01000480,Brent 006A,Year ending Dec 2017,759773,Mean
 E01000481,Brent 009B,Year ending Dec 2017,458300,Mean
-E01000482,Brent 009C,Year ending Dec 2017,:,Mean
+E01000482,Brent 009C,Year ending Dec 2017,,Mean
 E01000483,Brent 009D,Year ending Dec 2017,318167,Mean
-E01000484,Brent 006B,Year ending Dec 2017,:,Mean
+E01000484,Brent 006B,Year ending Dec 2017,,Mean
 E01000485,Brent 006C,Year ending Dec 2017,424125,Mean
 E01000486,Brent 006D,Year ending Dec 2017,570094,Mean
 E01000487,Brent 006E,Year ending Dec 2017,500625,Mean
@@ -489,15 +489,15 @@ E01000492,Brent 030C,Year ending Dec 2017,1001240,Mean
 E01000493,Brent 030D,Year ending Dec 2017,1109550,Mean
 E01000494,Brent 023B,Year ending Dec 2017,807500,Mean
 E01000495,Brent 023C,Year ending Dec 2017,482833,Mean
-E01000497,Brent 011A,Year ending Dec 2017,:,Mean
+E01000497,Brent 011A,Year ending Dec 2017,,Mean
 E01000498,Brent 010B,Year ending Dec 2017,329083,Mean
 E01000499,Brent 011B,Year ending Dec 2017,325417,Mean
 E01000501,Brent 011C,Year ending Dec 2017,362563,Mean
 E01000502,Brent 011D,Year ending Dec 2017,433889,Mean
 E01000503,Brent 011E,Year ending Dec 2017,528125,Mean
 E01000504,Brent 018A,Year ending Dec 2017,855625,Mean
-E01000505,Brent 018B,Year ending Dec 2017,:,Mean
-E01000506,Brent 014A,Year ending Dec 2017,:,Mean
+E01000505,Brent 018B,Year ending Dec 2017,,Mean
+E01000506,Brent 014A,Year ending Dec 2017,,Mean
 E01000507,Brent 018C,Year ending Dec 2017,882989,Mean
 E01000508,Brent 025A,Year ending Dec 2017,421429,Mean
 E01000509,Brent 014B,Year ending Dec 2017,548571,Mean
@@ -517,7 +517,7 @@ E01000522,Brent 025C,Year ending Dec 2017,542583,Mean
 E01000523,Brent 031A,Year ending Dec 2017,633722,Mean
 E01000524,Brent 031B,Year ending Dec 2017,520073,Mean
 E01000525,Brent 031C,Year ending Dec 2017,562500,Mean
-E01000526,Brent 025D,Year ending Dec 2017,:,Mean
+E01000526,Brent 025D,Year ending Dec 2017,,Mean
 E01000527,Brent 025E,Year ending Dec 2017,453857,Mean
 E01000528,Brent 025F,Year ending Dec 2017,265500,Mean
 E01000530,Brent 033A,Year ending Dec 2017,981622,Mean
@@ -544,21 +544,21 @@ E01000552,Brent 034D,Year ending Dec 2017,614864,Mean
 E01000553,Brent 015A,Year ending Dec 2017,612000,Mean
 E01000554,Brent 015B,Year ending Dec 2017,535300,Mean
 E01000555,Brent 015C,Year ending Dec 2017,966161,Mean
-E01000556,Brent 015D,Year ending Dec 2017,:,Mean
+E01000556,Brent 015D,Year ending Dec 2017,,Mean
 E01000557,Brent 015E,Year ending Dec 2017,539962,Mean
 E01000558,Brent 015F,Year ending Dec 2017,1091000,Mean
 E01000559,Brent 018E,Year ending Dec 2017,680556,Mean
-E01000560,Brent 023D,Year ending Dec 2017,:,Mean
+E01000560,Brent 023D,Year ending Dec 2017,,Mean
 E01000561,Brent 023E,Year ending Dec 2017,597167,Mean
 E01000562,Brent 008A,Year ending Dec 2017,1069733,Mean
 E01000563,Brent 008B,Year ending Dec 2017,648833,Mean
 E01000564,Brent 013A,Year ending Dec 2017,411200,Mean
-E01000565,Brent 013B,Year ending Dec 2017,:,Mean
+E01000565,Brent 013B,Year ending Dec 2017,,Mean
 E01000566,Brent 008C,Year ending Dec 2017,644167,Mean
 E01000567,Brent 016A,Year ending Dec 2017,379364,Mean
-E01000568,Brent 008D,Year ending Dec 2017,:,Mean
+E01000568,Brent 008D,Year ending Dec 2017,,Mean
 E01000569,Brent 008E,Year ending Dec 2017,651000,Mean
-E01000570,Brent 012A,Year ending Dec 2017,:,Mean
+E01000570,Brent 012A,Year ending Dec 2017,,Mean
 E01000571,Brent 012B,Year ending Dec 2017,659063,Mean
 E01000572,Brent 007A,Year ending Dec 2017,541571,Mean
 E01000573,Brent 007B,Year ending Dec 2017,493875,Mean
@@ -580,18 +580,18 @@ E01000588,Brent 002E,Year ending Dec 2017,421710,Mean
 E01000589,Brent 001B,Year ending Dec 2017,507500,Mean
 E01000590,Brent 001C,Year ending Dec 2017,446731,Mean
 E01000591,Brent 003F,Year ending Dec 2017,404071,Mean
-E01000592,Brent 001D,Year ending Dec 2017,:,Mean
+E01000592,Brent 001D,Year ending Dec 2017,,Mean
 E01000593,Brent 001E,Year ending Dec 2017,480000,Mean
 E01000594,Brent 001F,Year ending Dec 2017,421900,Mean
 E01000595,Brent 027A,Year ending Dec 2017,397000,Mean
-E01000596,Brent 021A,Year ending Dec 2017,:,Mean
+E01000596,Brent 021A,Year ending Dec 2017,,Mean
 E01000599,Brent 027D,Year ending Dec 2017,380400,Mean
 E01000600,Brent 027E,Year ending Dec 2017,448017,Mean
-E01000601,Brent 021B,Year ending Dec 2017,:,Mean
-E01000602,Brent 021C,Year ending Dec 2017,:,Mean
+E01000601,Brent 021B,Year ending Dec 2017,,Mean
+E01000602,Brent 021C,Year ending Dec 2017,,Mean
 E01000603,Brent 021D,Year ending Dec 2017,278219,Mean
-E01000604,Brent 021E,Year ending Dec 2017,:,Mean
-E01000605,Brent 021F,Year ending Dec 2017,:,Mean
+E01000604,Brent 021E,Year ending Dec 2017,,Mean
+E01000605,Brent 021F,Year ending Dec 2017,,Mean
 E01000606,Brent 016B,Year ending Dec 2017,321571,Mean
 E01000607,Brent 013C,Year ending Dec 2017,430875,Mean
 E01000608,Brent 013D,Year ending Dec 2017,254577,Mean
@@ -604,18 +604,18 @@ E01000615,Brent 017B,Year ending Dec 2017,295454,Mean
 E01000616,Brent 020A,Year ending Dec 2017,501908,Mean
 E01000617,Brent 017C,Year ending Dec 2017,427143,Mean
 E01000618,Brent 017D,Year ending Dec 2017,483722,Mean
-E01000619,Brent 017E,Year ending Dec 2017,:,Mean
+E01000619,Brent 017E,Year ending Dec 2017,,Mean
 E01000620,Brent 020B,Year ending Dec 2017,325995,Mean
 E01000621,Brent 020C,Year ending Dec 2017,379563,Mean
 E01000622,Brent 010D,Year ending Dec 2017,311071,Mean
-E01000623,Brent 005C,Year ending Dec 2017,:,Mean
+E01000623,Brent 005C,Year ending Dec 2017,,Mean
 E01000624,Brent 005D,Year ending Dec 2017,478973,Mean
 E01000625,Brent 009E,Year ending Dec 2017,403479,Mean
-E01000626,Brent 010E,Year ending Dec 2017,:,Mean
+E01000626,Brent 010E,Year ending Dec 2017,,Mean
 E01000627,Brent 014E,Year ending Dec 2017,505000,Mean
 E01000628,Brent 014F,Year ending Dec 2017,503800,Mean
 E01000629,Brent 005E,Year ending Dec 2017,437577,Mean
-E01000630,Brent 026E,Year ending Dec 2017,:,Mean
+E01000630,Brent 026E,Year ending Dec 2017,,Mean
 E01000631,Brent 019C,Year ending Dec 2017,463143,Mean
 E01000632,Brent 029E,Year ending Dec 2017,430833,Mean
 E01000633,Brent 019D,Year ending Dec 2017,421333,Mean
@@ -625,7 +625,7 @@ E01000636,Brent 020E,Year ending Dec 2017,325000,Mean
 E01000637,Brent 022B,Year ending Dec 2017,533121,Mean
 E01000638,Brent 024A,Year ending Dec 2017,357083,Mean
 E01000639,Brent 022C,Year ending Dec 2017,572821,Mean
-E01000640,Brent 024B,Year ending Dec 2017,:,Mean
+E01000640,Brent 024B,Year ending Dec 2017,,Mean
 E01000641,Brent 024C,Year ending Dec 2017,453143,Mean
 E01000642,Brent 022D,Year ending Dec 2017,407496,Mean
 E01000643,Brent 024D,Year ending Dec 2017,531692,Mean
@@ -779,7 +779,7 @@ E01000792,Bromley 032C,Year ending Dec 2017,359837,Mean
 E01000793,Bromley 032D,Year ending Dec 2017,574450,Mean
 E01000794,Bromley 035E,Year ending Dec 2017,556684,Mean
 E01000795,Bromley 032E,Year ending Dec 2017,518167,Mean
-E01000796,Bromley 009C,Year ending Dec 2017,:,Mean
+E01000796,Bromley 009C,Year ending Dec 2017,,Mean
 E01000797,Bromley 013E,Year ending Dec 2017,604500,Mean
 E01000798,Bromley 009D,Year ending Dec 2017,427053,Mean
 E01000799,Bromley 004A,Year ending Dec 2017,446143,Mean
@@ -827,7 +827,7 @@ E01000842,Camden 011A,Year ending Dec 2017,1089563,Mean
 E01000843,Camden 014A,Year ending Dec 2017,831694,Mean
 E01000844,Camden 011B,Year ending Dec 2017,1250781,Mean
 E01000845,Camden 014B,Year ending Dec 2017,1540654,Mean
-E01000846,Camden 014C,Year ending Dec 2017,:,Mean
+E01000846,Camden 014C,Year ending Dec 2017,,Mean
 E01000847,Camden 014D,Year ending Dec 2017,891000,Mean
 E01000848,Camden 011C,Year ending Dec 2017,1427217,Mean
 E01000849,Camden 011D,Year ending Dec 2017,1265789,Mean
@@ -839,14 +839,14 @@ E01000854,Camden 026D,Year ending Dec 2017,1366563,Mean
 E01000855,Camden 028A,Year ending Dec 2017,661663,Mean
 E01000856,Camden 019A,Year ending Dec 2017,877115,Mean
 E01000857,Camden 018A,Year ending Dec 2017,1981365,Mean
-E01000858,Camden 018B,Year ending Dec 2017,:,Mean
+E01000858,Camden 018B,Year ending Dec 2017,,Mean
 E01000859,Camden 018C,Year ending Dec 2017,1589176,Mean
 E01000860,Camden 018D,Year ending Dec 2017,1632889,Mean
 E01000861,Camden 019B,Year ending Dec 2017,716645,Mean
 E01000862,Camden 018E,Year ending Dec 2017,2036659,Mean
 E01000863,Camden 021A,Year ending Dec 2017,1290912,Mean
 E01000864,Camden 015A,Year ending Dec 2017,1188799,Mean
-E01000865,Camden 015B,Year ending Dec 2017,:,Mean
+E01000865,Camden 015B,Year ending Dec 2017,,Mean
 E01000866,Camden 009A,Year ending Dec 2017,929892,Mean
 E01000867,Camden 015C,Year ending Dec 2017,738112,Mean
 E01000868,Camden 015D,Year ending Dec 2017,659643,Mean
@@ -883,12 +883,12 @@ E01000898,Camden 008E,Year ending Dec 2017,2647214,Mean
 E01000899,Camden 002E,Year ending Dec 2017,1910769,Mean
 E01000900,Camden 012A,Year ending Dec 2017,749633,Mean
 E01000901,Camden 007D,Year ending Dec 2017,571200,Mean
-E01000902,Camden 012B,Year ending Dec 2017,:,Mean
+E01000902,Camden 012B,Year ending Dec 2017,,Mean
 E01000903,Camden 006E,Year ending Dec 2017,1335797,Mean
 E01000904,Camden 012C,Year ending Dec 2017,885314,Mean
-E01000905,Camden 012D,Year ending Dec 2017,:,Mean
+E01000905,Camden 012D,Year ending Dec 2017,,Mean
 E01000906,Camden 012E,Year ending Dec 2017,1509523,Mean
-E01000907,Camden 001A,Year ending Dec 2017,:,Mean
+E01000907,Camden 001A,Year ending Dec 2017,,Mean
 E01000908,Camden 001B,Year ending Dec 2017,570596,Mean
 E01000909,Camden 001C,Year ending Dec 2017,1247236,Mean
 E01000910,Camden 003A,Year ending Dec 2017,1777145,Mean
@@ -896,9 +896,9 @@ E01000911,Camden 003B,Year ending Dec 2017,813787,Mean
 E01000912,Camden 001D,Year ending Dec 2017,700417,Mean
 E01000913,Camden 001E,Year ending Dec 2017,2459379,Mean
 E01000914,Camden 028B,Year ending Dec 2017,912500,Mean
-E01000915,Camden 027A,Year ending Dec 2017,:,Mean
+E01000915,Camden 027A,Year ending Dec 2017,,Mean
 E01000916,Camden 027B,Year ending Dec 2017,969284,Mean
-E01000917,Camden 027C,Year ending Dec 2017,:,Mean
+E01000917,Camden 027C,Year ending Dec 2017,,Mean
 E01000918,Camden 028C,Year ending Dec 2017,1223050,Mean
 E01000919,Camden 028D,Year ending Dec 2017,1834156,Mean
 E01000920,Camden 027D,Year ending Dec 2017,1056525,Mean
@@ -921,22 +921,22 @@ E01000936,Camden 024A,Year ending Dec 2017,981528,Mean
 E01000937,Camden 025B,Year ending Dec 2017,519600,Mean
 E01000938,Camden 024B,Year ending Dec 2017,536000,Mean
 E01000939,Camden 024C,Year ending Dec 2017,1170361,Mean
-E01000940,Camden 024D,Year ending Dec 2017,:,Mean
-E01000941,Camden 025C,Year ending Dec 2017,:,Mean
+E01000940,Camden 024D,Year ending Dec 2017,,Mean
+E01000941,Camden 025C,Year ending Dec 2017,,Mean
 E01000942,Camden 025D,Year ending Dec 2017,701875,Mean
 E01000943,Camden 025E,Year ending Dec 2017,799522,Mean
 E01000944,Camden 023A,Year ending Dec 2017,679000,Mean
-E01000945,Camden 023B,Year ending Dec 2017,:,Mean
+E01000945,Camden 023B,Year ending Dec 2017,,Mean
 E01000946,Camden 021B,Year ending Dec 2017,4179583,Mean
 E01000947,Camden 021C,Year ending Dec 2017,623956,Mean
 E01000948,Camden 021D,Year ending Dec 2017,942727,Mean
-E01000949,Camden 023C,Year ending Dec 2017,:,Mean
-E01000950,Camden 023D,Year ending Dec 2017,:,Mean
-E01000951,Camden 023E,Year ending Dec 2017,:,Mean
+E01000949,Camden 023C,Year ending Dec 2017,,Mean
+E01000950,Camden 023D,Year ending Dec 2017,,Mean
+E01000951,Camden 023E,Year ending Dec 2017,,Mean
 E01000952,Camden 022A,Year ending Dec 2017,464658,Mean
 E01000953,Camden 022B,Year ending Dec 2017,1108092,Mean
-E01000954,Camden 022C,Year ending Dec 2017,:,Mean
-E01000955,Camden 022D,Year ending Dec 2017,:,Mean
+E01000954,Camden 022C,Year ending Dec 2017,,Mean
+E01000955,Camden 022D,Year ending Dec 2017,,Mean
 E01000956,Camden 022E,Year ending Dec 2017,1016000,Mean
 E01000957,Camden 019C,Year ending Dec 2017,496143,Mean
 E01000958,Camden 019D,Year ending Dec 2017,508111,Mean
@@ -970,7 +970,7 @@ E01000985,Croydon 021A,Year ending Dec 2017,493808,Mean
 E01000986,Croydon 021B,Year ending Dec 2017,458457,Mean
 E01000987,Croydon 021C,Year ending Dec 2017,468073,Mean
 E01000989,Croydon 018A,Year ending Dec 2017,422597,Mean
-E01000990,Croydon 045A,Year ending Dec 2017,:,Mean
+E01000990,Croydon 045A,Year ending Dec 2017,,Mean
 E01000991,Croydon 018B,Year ending Dec 2017,484808,Mean
 E01000992,Croydon 014A,Year ending Dec 2017,386958,Mean
 E01000993,Croydon 021D,Year ending Dec 2017,402330,Mean
@@ -1031,13 +1031,13 @@ E01001047,Croydon 027D,Year ending Dec 2017,327924,Mean
 E01001048,Croydon 020C,Year ending Dec 2017,311806,Mean
 E01001049,Croydon 023C,Year ending Dec 2017,794461,Mean
 E01001050,Croydon 023D,Year ending Dec 2017,355500,Mean
-E01001051,Croydon 030A,Year ending Dec 2017,:,Mean
+E01001051,Croydon 030A,Year ending Dec 2017,,Mean
 E01001052,Croydon 030B,Year ending Dec 2017,271286,Mean
 E01001053,Croydon 032A,Year ending Dec 2017,319850,Mean
 E01001054,Croydon 030C,Year ending Dec 2017,309000,Mean
 E01001055,Croydon 032B,Year ending Dec 2017,290700,Mean
-E01001056,Croydon 030D,Year ending Dec 2017,:,Mean
-E01001057,Croydon 030E,Year ending Dec 2017,:,Mean
+E01001056,Croydon 030D,Year ending Dec 2017,,Mean
+E01001057,Croydon 030E,Year ending Dec 2017,,Mean
 E01001058,Croydon 034A,Year ending Dec 2017,353091,Mean
 E01001059,Croydon 034B,Year ending Dec 2017,282486,Mean
 E01001060,Croydon 034C,Year ending Dec 2017,314614,Mean
@@ -1060,7 +1060,7 @@ E01001076,Croydon 036A,Year ending Dec 2017,306083,Mean
 E01001077,Croydon 032C,Year ending Dec 2017,343735,Mean
 E01001078,Croydon 032D,Year ending Dec 2017,333000,Mean
 E01001079,Croydon 036B,Year ending Dec 2017,324500,Mean
-E01001080,Croydon 036C,Year ending Dec 2017,:,Mean
+E01001080,Croydon 036C,Year ending Dec 2017,,Mean
 E01001081,Croydon 036D,Year ending Dec 2017,313500,Mean
 E01001082,Croydon 032E,Year ending Dec 2017,305857,Mean
 E01001083,Croydon 003A,Year ending Dec 2017,593395,Mean
@@ -1110,7 +1110,7 @@ E01001126,Croydon 034H,Year ending Dec 2017,360831,Mean
 E01001127,Croydon 025A,Year ending Dec 2017,530045,Mean
 E01001128,Croydon 025B,Year ending Dec 2017,349800,Mean
 E01001129,Croydon 026D,Year ending Dec 2017,566482,Mean
-E01001130,Croydon 025C,Year ending Dec 2017,:,Mean
+E01001130,Croydon 025C,Year ending Dec 2017,,Mean
 E01001131,Croydon 018C,Year ending Dec 2017,341489,Mean
 E01001132,Croydon 018D,Year ending Dec 2017,471571,Mean
 E01001133,Croydon 026E,Year ending Dec 2017,389498,Mean
@@ -1173,7 +1173,7 @@ E01001189,Croydon 045B,Year ending Dec 2017,412337,Mean
 E01001190,Croydon 045C,Year ending Dec 2017,390759,Mean
 E01001191,Croydon 008D,Year ending Dec 2017,303163,Mean
 E01001192,Croydon 008E,Year ending Dec 2017,381059,Mean
-E01001193,Croydon 014E,Year ending Dec 2017,:,Mean
+E01001193,Croydon 014E,Year ending Dec 2017,,Mean
 E01001194,Croydon 045D,Year ending Dec 2017,410617,Mean
 E01001195,Ealing 021A,Year ending Dec 2017,634154,Mean
 E01001196,Ealing 015A,Year ending Dec 2017,329994,Mean
@@ -1186,21 +1186,21 @@ E01001202,Ealing 025C,Year ending Dec 2017,481071,Mean
 E01001203,Ealing 025D,Year ending Dec 2017,465692,Mean
 E01001204,Ealing 018A,Year ending Dec 2017,846235,Mean
 E01001205,Ealing 018B,Year ending Dec 2017,585470,Mean
-E01001206,Ealing 018C,Year ending Dec 2017,:,Mean
+E01001206,Ealing 018C,Year ending Dec 2017,,Mean
 E01001207,Ealing 018D,Year ending Dec 2017,742104,Mean
 E01001208,Ealing 018E,Year ending Dec 2017,736063,Mean
 E01001209,Ealing 013A,Year ending Dec 2017,696900,Mean
 E01001210,Ealing 016A,Year ending Dec 2017,503886,Mean
 E01001211,Ealing 013B,Year ending Dec 2017,888200,Mean
 E01001212,Ealing 018F,Year ending Dec 2017,710028,Mean
-E01001213,Ealing 023A,Year ending Dec 2017,:,Mean
+E01001213,Ealing 023A,Year ending Dec 2017,,Mean
 E01001214,Ealing 023B,Year ending Dec 2017,413000,Mean
 E01001215,Ealing 023C,Year ending Dec 2017,242439,Mean
 E01001216,Ealing 023D,Year ending Dec 2017,318751,Mean
-E01001217,Ealing 014A,Year ending Dec 2017,:,Mean
+E01001217,Ealing 014A,Year ending Dec 2017,,Mean
 E01001218,Ealing 012A,Year ending Dec 2017,338106,Mean
-E01001219,Ealing 029A,Year ending Dec 2017,:,Mean
-E01001220,Ealing 029B,Year ending Dec 2017,:,Mean
+E01001219,Ealing 029A,Year ending Dec 2017,,Mean
+E01001220,Ealing 029B,Year ending Dec 2017,,Mean
 E01001221,Ealing 020A,Year ending Dec 2017,788278,Mean
 E01001222,Ealing 019A,Year ending Dec 2017,639711,Mean
 E01001223,Ealing 020B,Year ending Dec 2017,864111,Mean
@@ -1220,7 +1220,7 @@ E01001236,Ealing 020E,Year ending Dec 2017,866800,Mean
 E01001237,Ealing 031E,Year ending Dec 2017,1186679,Mean
 E01001238,Ealing 015B,Year ending Dec 2017,305911,Mean
 E01001239,Ealing 015C,Year ending Dec 2017,382081,Mean
-E01001240,Ealing 024A,Year ending Dec 2017,:,Mean
+E01001240,Ealing 024A,Year ending Dec 2017,,Mean
 E01001241,Ealing 024B,Year ending Dec 2017,857588,Mean
 E01001242,Ealing 024C,Year ending Dec 2017,1977429,Mean
 E01001243,Ealing 024D,Year ending Dec 2017,543000,Mean
@@ -1238,7 +1238,7 @@ E01001254,Ealing 030D,Year ending Dec 2017,584967,Mean
 E01001255,Ealing 028C,Year ending Dec 2017,638929,Mean
 E01001257,Ealing 008A,Year ending Dec 2017,290667,Mean
 E01001258,Ealing 010B,Year ending Dec 2017,359746,Mean
-E01001259,Ealing 014B,Year ending Dec 2017,:,Mean
+E01001259,Ealing 014B,Year ending Dec 2017,,Mean
 E01001260,Ealing 012B,Year ending Dec 2017,441613,Mean
 E01001261,Ealing 012C,Year ending Dec 2017,321325,Mean
 E01001262,Ealing 010C,Year ending Dec 2017,310091,Mean
@@ -1275,9 +1275,9 @@ E01001292,Ealing 014D,Year ending Dec 2017,413720,Mean
 E01001293,Ealing 014E,Year ending Dec 2017,401000,Mean
 E01001294,Ealing 017A,Year ending Dec 2017,364167,Mean
 E01001295,Ealing 017B,Year ending Dec 2017,371000,Mean
-E01001296,Ealing 017C,Year ending Dec 2017,:,Mean
+E01001296,Ealing 017C,Year ending Dec 2017,,Mean
 E01001297,Ealing 017D,Year ending Dec 2017,391714,Mean
-E01001298,Ealing 017E,Year ending Dec 2017,:,Mean
+E01001298,Ealing 017E,Year ending Dec 2017,,Mean
 E01001299,Ealing 035B,Year ending Dec 2017,887734,Mean
 E01001300,Ealing 039A,Year ending Dec 2017,744897,Mean
 E01001301,Ealing 039B,Year ending Dec 2017,480172,Mean
@@ -1291,7 +1291,7 @@ E01001308,Ealing 002B,Year ending Dec 2017,412333,Mean
 E01001309,Ealing 001C,Year ending Dec 2017,410873,Mean
 E01001310,Ealing 001D,Year ending Dec 2017,328750,Mean
 E01001311,Ealing 001E,Year ending Dec 2017,403875,Mean
-E01001312,Ealing 002C,Year ending Dec 2017,:,Mean
+E01001312,Ealing 002C,Year ending Dec 2017,,Mean
 E01001313,Ealing 002D,Year ending Dec 2017,517500,Mean
 E01001314,Ealing 002E,Year ending Dec 2017,392222,Mean
 E01001315,Ealing 003A,Year ending Dec 2017,390792,Mean
@@ -1312,14 +1312,14 @@ E01001329,Ealing 009D,Year ending Dec 2017,390467,Mean
 E01001330,Ealing 008D,Year ending Dec 2017,269000,Mean
 E01001331,Ealing 009E,Year ending Dec 2017,201750,Mean
 E01001332,Ealing 008E,Year ending Dec 2017,280450,Mean
-E01001333,Ealing 038A,Year ending Dec 2017,:,Mean
-E01001334,Ealing 029C,Year ending Dec 2017,:,Mean
+E01001333,Ealing 038A,Year ending Dec 2017,,Mean
+E01001334,Ealing 029C,Year ending Dec 2017,,Mean
 E01001335,Ealing 038B,Year ending Dec 2017,540031,Mean
 E01001336,Ealing 038C,Year ending Dec 2017,612750,Mean
 E01001337,Ealing 029D,Year ending Dec 2017,481182,Mean
 E01001338,Ealing 029E,Year ending Dec 2017,451921,Mean
 E01001339,Ealing 029F,Year ending Dec 2017,403338,Mean
-E01001340,Ealing 029G,Year ending Dec 2017,:,Mean
+E01001340,Ealing 029G,Year ending Dec 2017,,Mean
 E01001341,Ealing 005A,Year ending Dec 2017,491143,Mean
 E01001342,Ealing 005B,Year ending Dec 2017,438607,Mean
 E01001343,Ealing 005C,Year ending Dec 2017,481239,Mean
@@ -1338,20 +1338,20 @@ E01001355,Ealing 033B,Year ending Dec 2017,602786,Mean
 E01001356,Ealing 033C,Year ending Dec 2017,649286,Mean
 E01001357,Ealing 033D,Year ending Dec 2017,367875,Mean
 E01001358,Ealing 033E,Year ending Dec 2017,607711,Mean
-E01001359,Ealing 026A,Year ending Dec 2017,:,Mean
-E01001360,Ealing 026B,Year ending Dec 2017,:,Mean
-E01001361,Ealing 023E,Year ending Dec 2017,:,Mean
-E01001362,Ealing 026C,Year ending Dec 2017,:,Mean
-E01001363,Ealing 026D,Year ending Dec 2017,:,Mean
-E01001364,Ealing 026E,Year ending Dec 2017,:,Mean
+E01001359,Ealing 026A,Year ending Dec 2017,,Mean
+E01001360,Ealing 026B,Year ending Dec 2017,,Mean
+E01001361,Ealing 023E,Year ending Dec 2017,,Mean
+E01001362,Ealing 026C,Year ending Dec 2017,,Mean
+E01001363,Ealing 026D,Year ending Dec 2017,,Mean
+E01001364,Ealing 026E,Year ending Dec 2017,,Mean
 E01001365,Ealing 026F,Year ending Dec 2017,357643,Mean
 E01001366,Ealing 037A,Year ending Dec 2017,319000,Mean
-E01001367,Ealing 037B,Year ending Dec 2017,:,Mean
+E01001367,Ealing 037B,Year ending Dec 2017,,Mean
 E01001368,Ealing 037C,Year ending Dec 2017,362000,Mean
 E01001369,Ealing 038D,Year ending Dec 2017,309714,Mean
 E01001370,Ealing 037D,Year ending Dec 2017,402714,Mean
-E01001371,Ealing 037E,Year ending Dec 2017,:,Mean
-E01001372,Ealing 037F,Year ending Dec 2017,:,Mean
+E01001371,Ealing 037E,Year ending Dec 2017,,Mean
+E01001372,Ealing 037F,Year ending Dec 2017,,Mean
 E01001373,Ealing 037G,Year ending Dec 2017,276900,Mean
 E01001374,Ealing 040A,Year ending Dec 2017,771136,Mean
 E01001375,Ealing 034A,Year ending Dec 2017,1101971,Mean
@@ -1405,14 +1405,14 @@ E01001423,Enfield 027A,Year ending Dec 2017,398000,Mean
 E01001424,Enfield 030A,Year ending Dec 2017,248125,Mean
 E01001425,Enfield 027B,Year ending Dec 2017,284167,Mean
 E01001426,Enfield 030B,Year ending Dec 2017,268571,Mean
-E01001427,Enfield 030C,Year ending Dec 2017,:,Mean
+E01001427,Enfield 030C,Year ending Dec 2017,,Mean
 E01001428,Enfield 027C,Year ending Dec 2017,307222,Mean
-E01001429,Enfield 030D,Year ending Dec 2017,:,Mean
+E01001429,Enfield 030D,Year ending Dec 2017,,Mean
 E01001430,Enfield 030E,Year ending Dec 2017,284750,Mean
 E01001431,Enfield 033A,Year ending Dec 2017,230817,Mean
 E01001432,Enfield 033B,Year ending Dec 2017,408500,Mean
 E01001433,Enfield 007A,Year ending Dec 2017,340583,Mean
-E01001434,Enfield 007B,Year ending Dec 2017,:,Mean
+E01001434,Enfield 007B,Year ending Dec 2017,,Mean
 E01001435,Enfield 007C,Year ending Dec 2017,362063,Mean
 E01001436,Enfield 007D,Year ending Dec 2017,353000,Mean
 E01001437,Enfield 014A,Year ending Dec 2017,247906,Mean
@@ -1441,7 +1441,7 @@ E01001460,Enfield 024B,Year ending Dec 2017,287035,Mean
 E01001461,Enfield 027D,Year ending Dec 2017,281000,Mean
 E01001462,Enfield 024C,Year ending Dec 2017,270714,Mean
 E01001463,Enfield 031A,Year ending Dec 2017,406955,Mean
-E01001464,Enfield 027E,Year ending Dec 2017,:,Mean
+E01001464,Enfield 027E,Year ending Dec 2017,,Mean
 E01001465,Enfield 031B,Year ending Dec 2017,334000,Mean
 E01001466,Enfield 031C,Year ending Dec 2017,351200,Mean
 E01001467,Enfield 031D,Year ending Dec 2017,361286,Mean
@@ -1486,14 +1486,14 @@ E01001506,Enfield 014B,Year ending Dec 2017,327682,Mean
 E01001507,Enfield 012D,Year ending Dec 2017,292827,Mean
 E01001508,Enfield 012E,Year ending Dec 2017,276248,Mean
 E01001509,Enfield 014C,Year ending Dec 2017,258833,Mean
-E01001510,Enfield 014D,Year ending Dec 2017,:,Mean
+E01001510,Enfield 014D,Year ending Dec 2017,,Mean
 E01001511,Enfield 016D,Year ending Dec 2017,389262,Mean
 E01001512,Enfield 015D,Year ending Dec 2017,364973,Mean
 E01001513,Enfield 012F,Year ending Dec 2017,376667,Mean
 E01001514,Enfield 016E,Year ending Dec 2017,339441,Mean
 E01001515,Enfield 015E,Year ending Dec 2017,341346,Mean
 E01001516,Enfield 005D,Year ending Dec 2017,376389,Mean
-E01001517,Enfield 006C,Year ending Dec 2017,:,Mean
+E01001517,Enfield 006C,Year ending Dec 2017,,Mean
 E01001518,Enfield 016F,Year ending Dec 2017,420223,Mean
 E01001519,Enfield 020D,Year ending Dec 2017,363633,Mean
 E01001520,Enfield 019A,Year ending Dec 2017,507131,Mean
@@ -1504,7 +1504,7 @@ E01001524,Enfield 019D,Year ending Dec 2017,538144,Mean
 E01001525,Enfield 020E,Year ending Dec 2017,469425,Mean
 E01001526,Enfield 019E,Year ending Dec 2017,498633,Mean
 E01001527,Enfield 036F,Year ending Dec 2017,659846,Mean
-E01001528,Enfield 032B,Year ending Dec 2017,:,Mean
+E01001528,Enfield 032B,Year ending Dec 2017,,Mean
 E01001529,Enfield 032C,Year ending Dec 2017,388389,Mean
 E01001530,Enfield 032D,Year ending Dec 2017,544588,Mean
 E01001531,Enfield 028B,Year ending Dec 2017,836004,Mean
@@ -1530,14 +1530,14 @@ E01001550,Enfield 006E,Year ending Dec 2017,382116,Mean
 E01001551,Enfield 002E,Year ending Dec 2017,342773,Mean
 E01001552,Enfield 001D,Year ending Dec 2017,400368,Mean
 E01001553,Enfield 037B,Year ending Dec 2017,374000,Mean
-E01001554,Enfield 037C,Year ending Dec 2017,:,Mean
+E01001554,Enfield 037C,Year ending Dec 2017,,Mean
 E01001555,Enfield 033C,Year ending Dec 2017,359318,Mean
-E01001556,Enfield 035E,Year ending Dec 2017,:,Mean
+E01001556,Enfield 035E,Year ending Dec 2017,,Mean
 E01001557,Enfield 033D,Year ending Dec 2017,330620,Mean
 E01001558,Enfield 033E,Year ending Dec 2017,301333,Mean
 E01001559,Enfield 033F,Year ending Dec 2017,321955,Mean
 E01001560,Enfield 035F,Year ending Dec 2017,416813,Mean
-E01001562,Enfield 037D,Year ending Dec 2017,:,Mean
+E01001562,Enfield 037D,Year ending Dec 2017,,Mean
 E01001563,Enfield 029C,Year ending Dec 2017,481194,Mean
 E01001564,Enfield 022B,Year ending Dec 2017,649793,Mean
 E01001565,Enfield 029D,Year ending Dec 2017,555409,Mean
@@ -1599,14 +1599,14 @@ E01001623,Greenwich 025C,Year ending Dec 2017,388792,Mean
 E01001624,Greenwich 025D,Year ending Dec 2017,396150,Mean
 E01001625,Greenwich 025E,Year ending Dec 2017,355833,Mean
 E01001629,Greenwich 009A,Year ending Dec 2017,286767,Mean
-E01001631,Greenwich 007B,Year ending Dec 2017,:,Mean
+E01001631,Greenwich 007B,Year ending Dec 2017,,Mean
 E01001632,Greenwich 007C,Year ending Dec 2017,331500,Mean
 E01001633,Greenwich 009B,Year ending Dec 2017,326056,Mean
 E01001634,Greenwich 009C,Year ending Dec 2017,258642,Mean
 E01001635,Greenwich 007D,Year ending Dec 2017,350793,Mean
 E01001636,Greenwich 007E,Year ending Dec 2017,345166,Mean
 E01001637,Greenwich 009D,Year ending Dec 2017,369748,Mean
-E01001638,Greenwich 038A,Year ending Dec 2017,:,Mean
+E01001638,Greenwich 038A,Year ending Dec 2017,,Mean
 E01001640,Greenwich 035A,Year ending Dec 2017,555582,Mean
 E01001641,Greenwich 038B,Year ending Dec 2017,785676,Mean
 E01001642,Greenwich 038C,Year ending Dec 2017,1050769,Mean
@@ -1621,7 +1621,7 @@ E01001651,Greenwich 019C,Year ending Dec 2017,327400,Mean
 E01001652,Greenwich 019D,Year ending Dec 2017,472964,Mean
 E01001653,Greenwich 029A,Year ending Dec 2017,290563,Mean
 E01001654,Greenwich 029B,Year ending Dec 2017,287778,Mean
-E01001655,Greenwich 029C,Year ending Dec 2017,:,Mean
+E01001655,Greenwich 029C,Year ending Dec 2017,,Mean
 E01001656,Greenwich 034A,Year ending Dec 2017,571123,Mean
 E01001657,Greenwich 034B,Year ending Dec 2017,803872,Mean
 E01001658,Greenwich 034C,Year ending Dec 2017,366009,Mean
@@ -1648,37 +1648,37 @@ E01001680,Greenwich 020B,Year ending Dec 2017,551040,Mean
 E01001681,Greenwich 020C,Year ending Dec 2017,414866,Mean
 E01001682,Greenwich 020D,Year ending Dec 2017,441743,Mean
 E01001683,Greenwich 017B,Year ending Dec 2017,439700,Mean
-E01001684,Greenwich 017C,Year ending Dec 2017,:,Mean
+E01001684,Greenwich 017C,Year ending Dec 2017,,Mean
 E01001685,Greenwich 017D,Year ending Dec 2017,357833,Mean
 E01001686,Greenwich 020E,Year ending Dec 2017,339816,Mean
 E01001687,Greenwich 002A,Year ending Dec 2017,256706,Mean
 E01001688,Greenwich 002B,Year ending Dec 2017,268792,Mean
-E01001690,Greenwich 001A,Year ending Dec 2017,:,Mean
+E01001690,Greenwich 001A,Year ending Dec 2017,,Mean
 E01001692,Greenwich 001B,Year ending Dec 2017,226571,Mean
 E01001693,Greenwich 001C,Year ending Dec 2017,190722,Mean
 E01001694,Greenwich 001D,Year ending Dec 2017,247000,Mean
 E01001695,Greenwich 011A,Year ending Dec 2017,312000,Mean
 E01001696,Greenwich 011B,Year ending Dec 2017,399377,Mean
 E01001697,Greenwich 011C,Year ending Dec 2017,389444,Mean
-E01001698,Greenwich 015A,Year ending Dec 2017,:,Mean
+E01001698,Greenwich 015A,Year ending Dec 2017,,Mean
 E01001699,Greenwich 015B,Year ending Dec 2017,254400,Mean
 E01001700,Greenwich 011D,Year ending Dec 2017,328175,Mean
 E01001701,Greenwich 015C,Year ending Dec 2017,385263,Mean
-E01001702,Greenwich 015D,Year ending Dec 2017,:,Mean
-E01001703,Greenwich 011E,Year ending Dec 2017,:,Mean
+E01001702,Greenwich 015D,Year ending Dec 2017,,Mean
+E01001703,Greenwich 011E,Year ending Dec 2017,,Mean
 E01001704,Greenwich 011F,Year ending Dec 2017,433167,Mean
-E01001705,Greenwich 005A,Year ending Dec 2017,:,Mean
+E01001705,Greenwich 005A,Year ending Dec 2017,,Mean
 E01001706,Greenwich 005B,Year ending Dec 2017,436357,Mean
 E01001708,Greenwich 005C,Year ending Dec 2017,500030,Mean
 E01001709,Greenwich 004B,Year ending Dec 2017,328893,Mean
-E01001710,Greenwich 005D,Year ending Dec 2017,:,Mean
+E01001710,Greenwich 005D,Year ending Dec 2017,,Mean
 E01001711,Greenwich 004C,Year ending Dec 2017,283275,Mean
 E01001712,Greenwich 004D,Year ending Dec 2017,296000,Mean
-E01001713,Greenwich 005E,Year ending Dec 2017,:,Mean
+E01001713,Greenwich 005E,Year ending Dec 2017,,Mean
 E01001714,Hackney 002A,Year ending Dec 2017,465955,Mean
 E01001715,Hackney 007A,Year ending Dec 2017,565214,Mean
 E01001716,Hackney 007B,Year ending Dec 2017,434868,Mean
-E01001717,Hackney 007C,Year ending Dec 2017,:,Mean
+E01001717,Hackney 007C,Year ending Dec 2017,,Mean
 E01001718,Hackney 007D,Year ending Dec 2017,737950,Mean
 E01001719,Hackney 007E,Year ending Dec 2017,471949,Mean
 E01001720,Hackney 007F,Year ending Dec 2017,592429,Mean
@@ -1688,7 +1688,7 @@ E01001724,Hackney 006B,Year ending Dec 2017,505865,Mean
 E01001725,Hackney 004A,Year ending Dec 2017,838333,Mean
 E01001726,Hackney 004B,Year ending Dec 2017,505000,Mean
 E01001727,Hackney 006C,Year ending Dec 2017,634500,Mean
-E01001728,Hackney 029B,Year ending Dec 2017,:,Mean
+E01001728,Hackney 029B,Year ending Dec 2017,,Mean
 E01001729,Hackney 019A,Year ending Dec 2017,358214,Mean
 E01001730,Hackney 019B,Year ending Dec 2017,334724,Mean
 E01001731,Hackney 017A,Year ending Dec 2017,513214,Mean
@@ -1705,14 +1705,14 @@ E01001741,Hackney 009A,Year ending Dec 2017,806227,Mean
 E01001742,Hackney 008A,Year ending Dec 2017,716017,Mean
 E01001744,Hackney 021B,Year ending Dec 2017,746071,Mean
 E01001745,Hackney 016A,Year ending Dec 2017,466650,Mean
-E01001746,Hackney 016B,Year ending Dec 2017,:,Mean
+E01001746,Hackney 016B,Year ending Dec 2017,,Mean
 E01001747,Hackney 014B,Year ending Dec 2017,504231,Mean
 E01001748,Hackney 020A,Year ending Dec 2017,562159,Mean
 E01001749,Hackney 020B,Year ending Dec 2017,840775,Mean
 E01001750,Hackney 021C,Year ending Dec 2017,683997,Mean
 E01001751,Hackney 021D,Year ending Dec 2017,1203922,Mean
 E01001752,Hackney 025A,Year ending Dec 2017,662333,Mean
-E01001753,Hackney 025B,Year ending Dec 2017,:,Mean
+E01001753,Hackney 025B,Year ending Dec 2017,,Mean
 E01001754,Hackney 025C,Year ending Dec 2017,535549,Mean
 E01001755,Hackney 025D,Year ending Dec 2017,445647,Mean
 E01001756,Hackney 021E,Year ending Dec 2017,771402,Mean
@@ -1737,16 +1737,16 @@ E01001776,Hackney 025F,Year ending Dec 2017,311188,Mean
 E01001777,Hackney 027B,Year ending Dec 2017,616389,Mean
 E01001779,Hackney 026A,Year ending Dec 2017,549413,Mean
 E01001780,Hackney 027D,Year ending Dec 2017,668974,Mean
-E01001781,Hackney 026B,Year ending Dec 2017,:,Mean
+E01001781,Hackney 026B,Year ending Dec 2017,,Mean
 E01001782,Hackney 026C,Year ending Dec 2017,792583,Mean
 E01001783,Hackney 026D,Year ending Dec 2017,351100,Mean
 E01001784,Hackney 027E,Year ending Dec 2017,580405,Mean
 E01001785,Hackney 015B,Year ending Dec 2017,687882,Mean
 E01001786,Hackney 013A,Year ending Dec 2017,510208,Mean
-E01001787,Hackney 013B,Year ending Dec 2017,:,Mean
+E01001787,Hackney 013B,Year ending Dec 2017,,Mean
 E01001788,Hackney 013C,Year ending Dec 2017,280875,Mean
 E01001789,Hackney 015C,Year ending Dec 2017,752811,Mean
-E01001790,Hackney 013D,Year ending Dec 2017,:,Mean
+E01001790,Hackney 013D,Year ending Dec 2017,,Mean
 E01001791,Hackney 015D,Year ending Dec 2017,813700,Mean
 E01001792,Hackney 011A,Year ending Dec 2017,1066167,Mean
 E01001793,Hackney 011B,Year ending Dec 2017,752281,Mean
@@ -1755,7 +1755,7 @@ E01001795,Hackney 011D,Year ending Dec 2017,771450,Mean
 E01001796,Hackney 011E,Year ending Dec 2017,587652,Mean
 E01001798,Hackney 028A,Year ending Dec 2017,485800,Mean
 E01001799,Hackney 003A,Year ending Dec 2017,533979,Mean
-E01001800,Hackney 004C,Year ending Dec 2017,:,Mean
+E01001800,Hackney 004C,Year ending Dec 2017,,Mean
 E01001801,Hackney 008B,Year ending Dec 2017,651833,Mean
 E01001802,Hackney 003B,Year ending Dec 2017,532167,Mean
 E01001803,Hackney 008C,Year ending Dec 2017,835306,Mean
@@ -1763,26 +1763,26 @@ E01001804,Hackney 003C,Year ending Dec 2017,813773,Mean
 E01001805,Hackney 009B,Year ending Dec 2017,645455,Mean
 E01001806,Hackney 008D,Year ending Dec 2017,594600,Mean
 E01001807,Hackney 003D,Year ending Dec 2017,433458,Mean
-E01001808,Hackney 001A,Year ending Dec 2017,:,Mean
+E01001808,Hackney 001A,Year ending Dec 2017,,Mean
 E01001809,Hackney 001B,Year ending Dec 2017,561750,Mean
-E01001811,Hackney 002D,Year ending Dec 2017,:,Mean
-E01001812,Hackney 003E,Year ending Dec 2017,:,Mean
-E01001813,Hackney 002E,Year ending Dec 2017,:,Mean
+E01001811,Hackney 002D,Year ending Dec 2017,,Mean
+E01001812,Hackney 003E,Year ending Dec 2017,,Mean
+E01001813,Hackney 002E,Year ending Dec 2017,,Mean
 E01001814,Hackney 001C,Year ending Dec 2017,414909,Mean
 E01001815,Hackney 024D,Year ending Dec 2017,686659,Mean
 E01001816,Hackney 020D,Year ending Dec 2017,1119667,Mean
 E01001819,Hackney 020E,Year ending Dec 2017,1414964,Mean
-E01001820,Hackney 024E,Year ending Dec 2017,:,Mean
-E01001821,Hackney 024F,Year ending Dec 2017,:,Mean
+E01001820,Hackney 024E,Year ending Dec 2017,,Mean
+E01001821,Hackney 024F,Year ending Dec 2017,,Mean
 E01001822,Hackney 029C,Year ending Dec 2017,490955,Mean
 E01001823,Hackney 001D,Year ending Dec 2017,372393,Mean
 E01001824,Hackney 004D,Year ending Dec 2017,433113,Mean
-E01001825,Hackney 001E,Year ending Dec 2017,:,Mean
-E01001826,Hackney 004E,Year ending Dec 2017,:,Mean
-E01001827,Hackney 029D,Year ending Dec 2017,:,Mean
+E01001825,Hackney 001E,Year ending Dec 2017,,Mean
+E01001826,Hackney 004E,Year ending Dec 2017,,Mean
+E01001827,Hackney 029D,Year ending Dec 2017,,Mean
 E01001828,Hackney 028B,Year ending Dec 2017,454333,Mean
 E01001829,Hackney 009C,Year ending Dec 2017,1010600,Mean
-E01001830,Hackney 014C,Year ending Dec 2017,:,Mean
+E01001830,Hackney 014C,Year ending Dec 2017,,Mean
 E01001831,Hackney 009D,Year ending Dec 2017,521220,Mean
 E01001832,Hackney 009E,Year ending Dec 2017,964242,Mean
 E01001833,Hackney 014D,Year ending Dec 2017,665059,Mean
@@ -1808,7 +1808,7 @@ E01001852,Hammersmith and Fulham 007A,Year ending Dec 2017,598922,Mean
 E01001853,Hammersmith and Fulham 007B,Year ending Dec 2017,976488,Mean
 E01001854,Hammersmith and Fulham 007C,Year ending Dec 2017,612867,Mean
 E01001855,Hammersmith and Fulham 010B,Year ending Dec 2017,678077,Mean
-E01001856,Hammersmith and Fulham 010C,Year ending Dec 2017,:,Mean
+E01001856,Hammersmith and Fulham 010C,Year ending Dec 2017,,Mean
 E01001857,Hammersmith and Fulham 007D,Year ending Dec 2017,465788,Mean
 E01001858,Hammersmith and Fulham 006A,Year ending Dec 2017,674762,Mean
 E01001859,Hammersmith and Fulham 008A,Year ending Dec 2017,507900,Mean
@@ -1820,24 +1820,24 @@ E01001864,Hammersmith and Fulham 006E,Year ending Dec 2017,781591,Mean
 E01001865,Hammersmith and Fulham 008B,Year ending Dec 2017,854750,Mean
 E01001866,Hammersmith and Fulham 012A,Year ending Dec 2017,961875,Mean
 E01001867,Hammersmith and Fulham 012B,Year ending Dec 2017,584000,Mean
-E01001868,Hammersmith and Fulham 012C,Year ending Dec 2017,:,Mean
+E01001868,Hammersmith and Fulham 012C,Year ending Dec 2017,,Mean
 E01001869,Hammersmith and Fulham 010D,Year ending Dec 2017,1755333,Mean
 E01001870,Hammersmith and Fulham 012D,Year ending Dec 2017,719434,Mean
 E01001871,Hammersmith and Fulham 012E,Year ending Dec 2017,670105,Mean
 E01001872,Hammersmith and Fulham 012F,Year ending Dec 2017,607500,Mean
 E01001873,Hammersmith and Fulham 010E,Year ending Dec 2017,794055,Mean
 E01001874,Hammersmith and Fulham 001A,Year ending Dec 2017,642821,Mean
-E01001875,Hammersmith and Fulham 001B,Year ending Dec 2017,:,Mean
-E01001876,Hammersmith and Fulham 001C,Year ending Dec 2017,:,Mean
+E01001875,Hammersmith and Fulham 001B,Year ending Dec 2017,,Mean
+E01001876,Hammersmith and Fulham 001C,Year ending Dec 2017,,Mean
 E01001877,Hammersmith and Fulham 001D,Year ending Dec 2017,563200,Mean
-E01001878,Hammersmith and Fulham 001E,Year ending Dec 2017,:,Mean
+E01001878,Hammersmith and Fulham 001E,Year ending Dec 2017,,Mean
 E01001879,Hammersmith and Fulham 019A,Year ending Dec 2017,779038,Mean
-E01001880,Hammersmith and Fulham 017A,Year ending Dec 2017,:,Mean
+E01001880,Hammersmith and Fulham 017A,Year ending Dec 2017,,Mean
 E01001881,Hammersmith and Fulham 017B,Year ending Dec 2017,998895,Mean
 E01001882,Hammersmith and Fulham 017C,Year ending Dec 2017,887833,Mean
 E01001883,Hammersmith and Fulham 017D,Year ending Dec 2017,1025498,Mean
 E01001884,Hammersmith and Fulham 017E,Year ending Dec 2017,663150,Mean
-E01001885,Hammersmith and Fulham 015A,Year ending Dec 2017,:,Mean
+E01001885,Hammersmith and Fulham 015A,Year ending Dec 2017,,Mean
 E01001886,Hammersmith and Fulham 016A,Year ending Dec 2017,629909,Mean
 E01001887,Hammersmith and Fulham 016B,Year ending Dec 2017,1016563,Mean
 E01001888,Hammersmith and Fulham 018A,Year ending Dec 2017,992477,Mean
@@ -1863,8 +1863,8 @@ E01001907,Hammersmith and Fulham 022D,Year ending Dec 2017,1712167,Mean
 E01001908,Hammersmith and Fulham 015B,Year ending Dec 2017,631036,Mean
 E01001909,Hammersmith and Fulham 015C,Year ending Dec 2017,594895,Mean
 E01001910,Hammersmith and Fulham 014B,Year ending Dec 2017,728142,Mean
-E01001911,Hammersmith and Fulham 015D,Year ending Dec 2017,:,Mean
-E01001912,Hammersmith and Fulham 015E,Year ending Dec 2017,:,Mean
+E01001911,Hammersmith and Fulham 015D,Year ending Dec 2017,,Mean
+E01001912,Hammersmith and Fulham 015E,Year ending Dec 2017,,Mean
 E01001913,Hammersmith and Fulham 014C,Year ending Dec 2017,761262,Mean
 E01001914,Hammersmith and Fulham 014D,Year ending Dec 2017,515953,Mean
 E01001915,Hammersmith and Fulham 024A,Year ending Dec 2017,1705143,Mean
@@ -1895,10 +1895,10 @@ E01001940,Hammersmith and Fulham 005B,Year ending Dec 2017,714764,Mean
 E01001941,Hammersmith and Fulham 005C,Year ending Dec 2017,657329,Mean
 E01001942,Hammersmith and Fulham 005D,Year ending Dec 2017,812769,Mean
 E01001943,Hammersmith and Fulham 004A,Year ending Dec 2017,597083,Mean
-E01001944,Hammersmith and Fulham 004B,Year ending Dec 2017,:,Mean
+E01001944,Hammersmith and Fulham 004B,Year ending Dec 2017,,Mean
 E01001945,Hammersmith and Fulham 004C,Year ending Dec 2017,884615,Mean
 E01001946,Hammersmith and Fulham 004D,Year ending Dec 2017,977119,Mean
-E01001947,Hammersmith and Fulham 021A,Year ending Dec 2017,:,Mean
+E01001947,Hammersmith and Fulham 021A,Year ending Dec 2017,,Mean
 E01001948,Hammersmith and Fulham 021B,Year ending Dec 2017,969988,Mean
 E01001949,Hammersmith and Fulham 021C,Year ending Dec 2017,1367500,Mean
 E01001950,Hammersmith and Fulham 021D,Year ending Dec 2017,1377806,Mean
@@ -1909,7 +1909,7 @@ E01001954,Hammersmith and Fulham 003A,Year ending Dec 2017,826000,Mean
 E01001955,Hammersmith and Fulham 002A,Year ending Dec 2017,472424,Mean
 E01001956,Hammersmith and Fulham 003B,Year ending Dec 2017,1090417,Mean
 E01001957,Hammersmith and Fulham 002B,Year ending Dec 2017,316000,Mean
-E01001958,Hammersmith and Fulham 002C,Year ending Dec 2017,:,Mean
+E01001958,Hammersmith and Fulham 002C,Year ending Dec 2017,,Mean
 E01001959,Hammersmith and Fulham 003C,Year ending Dec 2017,583600,Mean
 E01001960,Hammersmith and Fulham 003D,Year ending Dec 2017,701092,Mean
 E01001961,Hammersmith and Fulham 002D,Year ending Dec 2017,308620,Mean
@@ -1921,7 +1921,7 @@ E01001966,Haringey 009D,Year ending Dec 2017,1213429,Mean
 E01001967,Haringey 014A,Year ending Dec 2017,882647,Mean
 E01001968,Haringey 014B,Year ending Dec 2017,961073,Mean
 E01001969,Haringey 001A,Year ending Dec 2017,519250,Mean
-E01001970,Haringey 004B,Year ending Dec 2017,:,Mean
+E01001970,Haringey 004B,Year ending Dec 2017,,Mean
 E01001971,Haringey 001B,Year ending Dec 2017,456750,Mean
 E01001972,Haringey 004C,Year ending Dec 2017,593464,Mean
 E01001973,Haringey 004D,Year ending Dec 2017,637822,Mean
@@ -1976,7 +1976,7 @@ E01002022,Haringey 021B,Year ending Dec 2017,935134,Mean
 E01002023,Haringey 021C,Year ending Dec 2017,738417,Mean
 E01002024,Haringey 022D,Year ending Dec 2017,1028673,Mean
 E01002025,Haringey 021D,Year ending Dec 2017,1453167,Mean
-E01002026,Haringey 016A,Year ending Dec 2017,:,Mean
+E01002026,Haringey 016A,Year ending Dec 2017,,Mean
 E01002027,Haringey 010A,Year ending Dec 2017,494250,Mean
 E01002028,Haringey 010B,Year ending Dec 2017,522887,Mean
 E01002029,Haringey 016B,Year ending Dec 2017,290143,Mean
@@ -1984,9 +1984,9 @@ E01002030,Haringey 016C,Year ending Dec 2017,554389,Mean
 E01002031,Haringey 016D,Year ending Dec 2017,399993,Mean
 E01002032,Haringey 010C,Year ending Dec 2017,446188,Mean
 E01002033,Haringey 010D,Year ending Dec 2017,452000,Mean
-E01002034,Haringey 037A,Year ending Dec 2017,:,Mean
+E01002034,Haringey 037A,Year ending Dec 2017,,Mean
 E01002036,Haringey 002A,Year ending Dec 2017,302780,Mean
-E01002037,Haringey 002B,Year ending Dec 2017,:,Mean
+E01002037,Haringey 002B,Year ending Dec 2017,,Mean
 E01002038,Haringey 037B,Year ending Dec 2017,374313,Mean
 E01002039,Haringey 002C,Year ending Dec 2017,252000,Mean
 E01002040,Haringey 002D,Year ending Dec 2017,337290,Mean
@@ -2000,11 +2000,11 @@ E01002047,Haringey 027C,Year ending Dec 2017,612943,Mean
 E01002048,Haringey 027D,Year ending Dec 2017,537747,Mean
 E01002049,Haringey 026D,Year ending Dec 2017,413455,Mean
 E01002050,Haringey 029A,Year ending Dec 2017,842500,Mean
-E01002051,Haringey 029B,Year ending Dec 2017,:,Mean
+E01002051,Haringey 029B,Year ending Dec 2017,,Mean
 E01002052,Haringey 029C,Year ending Dec 2017,608333,Mean
 E01002053,Haringey 032A,Year ending Dec 2017,528762,Mean
 E01002054,Haringey 032B,Year ending Dec 2017,317083,Mean
-E01002055,Haringey 029D,Year ending Dec 2017,:,Mean
+E01002055,Haringey 029D,Year ending Dec 2017,,Mean
 E01002056,Haringey 032C,Year ending Dec 2017,429192,Mean
 E01002057,Haringey 032D,Year ending Dec 2017,525300,Mean
 E01002058,Haringey 031D,Year ending Dec 2017,653494,Mean
@@ -2022,30 +2022,30 @@ E01002069,Haringey 024B,Year ending Dec 2017,489286,Mean
 E01002070,Haringey 024C,Year ending Dec 2017,461932,Mean
 E01002071,Haringey 025C,Year ending Dec 2017,337000,Mean
 E01002072,Haringey 025D,Year ending Dec 2017,429461,Mean
-E01002073,Haringey 024D,Year ending Dec 2017,:,Mean
+E01002073,Haringey 024D,Year ending Dec 2017,,Mean
 E01002074,Haringey 012A,Year ending Dec 2017,374429,Mean
 E01002075,Haringey 015A,Year ending Dec 2017,442525,Mean
-E01002076,Haringey 015B,Year ending Dec 2017,:,Mean
-E01002077,Haringey 012B,Year ending Dec 2017,:,Mean
+E01002076,Haringey 015B,Year ending Dec 2017,,Mean
+E01002077,Haringey 012B,Year ending Dec 2017,,Mean
 E01002078,Haringey 015C,Year ending Dec 2017,366127,Mean
 E01002079,Haringey 012C,Year ending Dec 2017,461405,Mean
 E01002080,Haringey 015D,Year ending Dec 2017,350857,Mean
-E01002081,Haringey 012D,Year ending Dec 2017,:,Mean
-E01002082,Haringey 013A,Year ending Dec 2017,:,Mean
+E01002081,Haringey 012D,Year ending Dec 2017,,Mean
+E01002082,Haringey 013A,Year ending Dec 2017,,Mean
 E01002083,Haringey 019A,Year ending Dec 2017,535226,Mean
 E01002084,Haringey 019B,Year ending Dec 2017,465000,Mean
 E01002085,Haringey 019C,Year ending Dec 2017,498679,Mean
 E01002086,Haringey 013B,Year ending Dec 2017,461540,Mean
 E01002087,Haringey 019D,Year ending Dec 2017,566759,Mean
 E01002088,Haringey 013C,Year ending Dec 2017,489100,Mean
-E01002089,Haringey 013D,Year ending Dec 2017,:,Mean
+E01002089,Haringey 013D,Year ending Dec 2017,,Mean
 E01002090,Haringey 005A,Year ending Dec 2017,436438,Mean
-E01002091,Haringey 006A,Year ending Dec 2017,:,Mean
+E01002091,Haringey 006A,Year ending Dec 2017,,Mean
 E01002092,Haringey 006B,Year ending Dec 2017,256590,Mean
 E01002093,Haringey 005B,Year ending Dec 2017,431608,Mean
 E01002094,Haringey 006C,Year ending Dec 2017,425500,Mean
 E01002095,Haringey 006D,Year ending Dec 2017,417417,Mean
-E01002096,Haringey 005C,Year ending Dec 2017,:,Mean
+E01002096,Haringey 005C,Year ending Dec 2017,,Mean
 E01002097,Haringey 005D,Year ending Dec 2017,389625,Mean
 E01002098,Haringey 007A,Year ending Dec 2017,498208,Mean
 E01002099,Haringey 008A,Year ending Dec 2017,308688,Mean
@@ -2088,7 +2088,7 @@ E01002135,Harrow 029C,Year ending Dec 2017,452750,Mean
 E01002136,Harrow 027B,Year ending Dec 2017,429925,Mean
 E01002137,Harrow 029D,Year ending Dec 2017,562858,Mean
 E01002138,Harrow 027C,Year ending Dec 2017,394375,Mean
-E01002139,Harrow 006A,Year ending Dec 2017,:,Mean
+E01002139,Harrow 006A,Year ending Dec 2017,,Mean
 E01002140,Harrow 005A,Year ending Dec 2017,434957,Mean
 E01002141,Harrow 005B,Year ending Dec 2017,444300,Mean
 E01002142,Harrow 005C,Year ending Dec 2017,558372,Mean
@@ -2116,14 +2116,14 @@ E01002163,Harrow 015D,Year ending Dec 2017,604933,Mean
 E01002164,Harrow 021D,Year ending Dec 2017,413930,Mean
 E01002165,Harrow 017A,Year ending Dec 2017,473520,Mean
 E01002166,Harrow 017B,Year ending Dec 2017,508571,Mean
-E01002167,Harrow 017C,Year ending Dec 2017,:,Mean
+E01002167,Harrow 017C,Year ending Dec 2017,,Mean
 E01002168,Harrow 017D,Year ending Dec 2017,415333,Mean
 E01002169,Harrow 017E,Year ending Dec 2017,500357,Mean
 E01002170,Harrow 033A,Year ending Dec 2017,579500,Mean
 E01002171,Harrow 033B,Year ending Dec 2017,354420,Mean
 E01002172,Harrow 033C,Year ending Dec 2017,471375,Mean
 E01002173,Harrow 033D,Year ending Dec 2017,511400,Mean
-E01002174,Harrow 033E,Year ending Dec 2017,:,Mean
+E01002174,Harrow 033E,Year ending Dec 2017,,Mean
 E01002175,Harrow 033F,Year ending Dec 2017,670367,Mean
 E01002176,Harrow 033G,Year ending Dec 2017,590750,Mean
 E01002177,Harrow 033H,Year ending Dec 2017,626633,Mean
@@ -2169,13 +2169,13 @@ E01002217,Harrow 028D,Year ending Dec 2017,465714,Mean
 E01002218,Harrow 030A,Year ending Dec 2017,432905,Mean
 E01002219,Harrow 030B,Year ending Dec 2017,377200,Mean
 E01002220,Harrow 031C,Year ending Dec 2017,496714,Mean
-E01002221,Harrow 030C,Year ending Dec 2017,:,Mean
+E01002221,Harrow 030C,Year ending Dec 2017,,Mean
 E01002222,Harrow 030D,Year ending Dec 2017,426625,Mean
 E01002223,Harrow 031D,Year ending Dec 2017,355300,Mean
 E01002224,Harrow 031E,Year ending Dec 2017,439250,Mean
 E01002225,Harrow 001C,Year ending Dec 2017,1322739,Mean
 E01002226,Harrow 001D,Year ending Dec 2017,717180,Mean
-E01002227,Harrow 003A,Year ending Dec 2017,:,Mean
+E01002227,Harrow 003A,Year ending Dec 2017,,Mean
 E01002228,Harrow 003B,Year ending Dec 2017,756633,Mean
 E01002229,Harrow 003C,Year ending Dec 2017,515423,Mean
 E01002230,Harrow 003D,Year ending Dec 2017,685729,Mean
@@ -2183,7 +2183,7 @@ E01002231,Harrow 013E,Year ending Dec 2017,376884,Mean
 E01002232,Harrow 011A,Year ending Dec 2017,434462,Mean
 E01002233,Harrow 011B,Year ending Dec 2017,445071,Mean
 E01002234,Harrow 011C,Year ending Dec 2017,465656,Mean
-E01002235,Harrow 011D,Year ending Dec 2017,:,Mean
+E01002235,Harrow 011D,Year ending Dec 2017,,Mean
 E01002236,Harrow 011E,Year ending Dec 2017,344167,Mean
 E01002237,Harrow 024A,Year ending Dec 2017,380119,Mean
 E01002238,Harrow 024B,Year ending Dec 2017,487423,Mean
@@ -2343,8 +2343,8 @@ E01002392,Hillingdon 020A,Year ending Dec 2017,306857,Mean
 E01002393,Hillingdon 020B,Year ending Dec 2017,337725,Mean
 E01002394,Hillingdon 021A,Year ending Dec 2017,353500,Mean
 E01002395,Hillingdon 021B,Year ending Dec 2017,382458,Mean
-E01002396,Hillingdon 026A,Year ending Dec 2017,:,Mean
-E01002397,Hillingdon 021C,Year ending Dec 2017,:,Mean
+E01002396,Hillingdon 026A,Year ending Dec 2017,,Mean
+E01002397,Hillingdon 021C,Year ending Dec 2017,,Mean
 E01002398,Hillingdon 021D,Year ending Dec 2017,364500,Mean
 E01002399,Hillingdon 021E,Year ending Dec 2017,388571,Mean
 E01002400,Hillingdon 024A,Year ending Dec 2017,367778,Mean
@@ -2452,7 +2452,7 @@ E01002502,Hillingdon 026C,Year ending Dec 2017,427333,Mean
 E01002503,Hillingdon 027C,Year ending Dec 2017,408500,Mean
 E01002504,Hillingdon 027D,Year ending Dec 2017,313919,Mean
 E01002505,Hillingdon 026D,Year ending Dec 2017,266994,Mean
-E01002506,Hillingdon 027E,Year ending Dec 2017,:,Mean
+E01002506,Hillingdon 027E,Year ending Dec 2017,,Mean
 E01002507,Hillingdon 027F,Year ending Dec 2017,404444,Mean
 E01002508,Hillingdon 026E,Year ending Dec 2017,376681,Mean
 E01002509,Hillingdon 017D,Year ending Dec 2017,613950,Mean
@@ -2487,7 +2487,7 @@ E01002541,Hillingdon 023A,Year ending Dec 2017,393571,Mean
 E01002542,Hillingdon 020D,Year ending Dec 2017,309931,Mean
 E01002543,Hillingdon 020E,Year ending Dec 2017,350950,Mean
 E01002544,Hillingdon 023B,Year ending Dec 2017,362473,Mean
-E01002545,Hillingdon 023C,Year ending Dec 2017,:,Mean
+E01002545,Hillingdon 023C,Year ending Dec 2017,,Mean
 E01002546,Hillingdon 023D,Year ending Dec 2017,419400,Mean
 E01002547,Hillingdon 023E,Year ending Dec 2017,358250,Mean
 E01002548,Hillingdon 025A,Year ending Dec 2017,358342,Mean
@@ -2545,7 +2545,7 @@ E01002600,Hounslow 025D,Year ending Dec 2017,355444,Mean
 E01002601,Hounslow 027B,Year ending Dec 2017,297400,Mean
 E01002602,Hounslow 027C,Year ending Dec 2017,348863,Mean
 E01002603,Hounslow 025E,Year ending Dec 2017,339992,Mean
-E01002604,Hounslow 026A,Year ending Dec 2017,:,Mean
+E01002604,Hounslow 026A,Year ending Dec 2017,,Mean
 E01002605,Hounslow 026B,Year ending Dec 2017,296208,Mean
 E01002606,Hounslow 026C,Year ending Dec 2017,324000,Mean
 E01002607,Hounslow 026D,Year ending Dec 2017,345495,Mean
@@ -2571,16 +2571,16 @@ E01002626,Hounslow 004C,Year ending Dec 2017,467996,Mean
 E01002627,Hounslow 004D,Year ending Dec 2017,307990,Mean
 E01002628,Hounslow 011D,Year ending Dec 2017,420056,Mean
 E01002629,Hounslow 011E,Year ending Dec 2017,428154,Mean
-E01002630,Hounslow 012A,Year ending Dec 2017,:,Mean
+E01002630,Hounslow 012A,Year ending Dec 2017,,Mean
 E01002631,Hounslow 004E,Year ending Dec 2017,278059,Mean
 E01002632,Hounslow 010C,Year ending Dec 2017,451600,Mean
 E01002633,Hounslow 005A,Year ending Dec 2017,300056,Mean
 E01002634,Hounslow 005B,Year ending Dec 2017,291545,Mean
-E01002635,Hounslow 010D,Year ending Dec 2017,:,Mean
+E01002635,Hounslow 010D,Year ending Dec 2017,,Mean
 E01002636,Hounslow 010E,Year ending Dec 2017,429583,Mean
 E01002637,Hounslow 005C,Year ending Dec 2017,334722,Mean
 E01002638,Hounslow 005D,Year ending Dec 2017,393300,Mean
-E01002639,Hounslow 012B,Year ending Dec 2017,:,Mean
+E01002639,Hounslow 012B,Year ending Dec 2017,,Mean
 E01002640,Hounslow 012C,Year ending Dec 2017,423600,Mean
 E01002641,Hounslow 018A,Year ending Dec 2017,349563,Mean
 E01002642,Hounslow 015A,Year ending Dec 2017,335300,Mean
@@ -2601,19 +2601,19 @@ E01002657,Hounslow 018E,Year ending Dec 2017,469103,Mean
 E01002658,Hounslow 015D,Year ending Dec 2017,558615,Mean
 E01002659,Hounslow 019E,Year ending Dec 2017,486798,Mean
 E01002660,Hounslow 016C,Year ending Dec 2017,348333,Mean
-E01002661,Hounslow 016D,Year ending Dec 2017,:,Mean
+E01002661,Hounslow 016D,Year ending Dec 2017,,Mean
 E01002662,Hounslow 017C,Year ending Dec 2017,267213,Mean
 E01002663,Hounslow 017D,Year ending Dec 2017,371750,Mean
 E01002664,Hounslow 017E,Year ending Dec 2017,291607,Mean
-E01002665,Hounslow 016E,Year ending Dec 2017,:,Mean
-E01002666,Hounslow 021E,Year ending Dec 2017,:,Mean
+E01002665,Hounslow 016E,Year ending Dec 2017,,Mean
+E01002666,Hounslow 021E,Year ending Dec 2017,,Mean
 E01002667,Hounslow 020A,Year ending Dec 2017,999083,Mean
 E01002668,Hounslow 014A,Year ending Dec 2017,406129,Mean
 E01002669,Hounslow 014B,Year ending Dec 2017,342525,Mean
 E01002670,Hounslow 020B,Year ending Dec 2017,523833,Mean
 E01002671,Hounslow 020C,Year ending Dec 2017,562246,Mean
 E01002672,Hounslow 020D,Year ending Dec 2017,306750,Mean
-E01002673,Hounslow 020E,Year ending Dec 2017,:,Mean
+E01002673,Hounslow 020E,Year ending Dec 2017,,Mean
 E01002674,Hounslow 012D,Year ending Dec 2017,495564,Mean
 E01002675,Hounslow 009A,Year ending Dec 2017,456344,Mean
 E01002676,Hounslow 012E,Year ending Dec 2017,598708,Mean
@@ -2632,22 +2632,22 @@ E01002690,Hounslow 007F,Year ending Dec 2017,1285250,Mean
 E01002691,Hounslow 029B,Year ending Dec 2017,815017,Mean
 E01002692,Hounslow 029C,Year ending Dec 2017,1020978,Mean
 E01002693,Hounslow 029D,Year ending Dec 2017,937879,Mean
-E01002694,Islington 019A,Year ending Dec 2017,:,Mean
+E01002694,Islington 019A,Year ending Dec 2017,,Mean
 E01002695,Islington 021A,Year ending Dec 2017,607000,Mean
 E01002696,Islington 020A,Year ending Dec 2017,1126869,Mean
-E01002697,Islington 019B,Year ending Dec 2017,:,Mean
+E01002697,Islington 019B,Year ending Dec 2017,,Mean
 E01002698,Islington 017A,Year ending Dec 2017,1077718,Mean
 E01002699,Islington 017B,Year ending Dec 2017,1110000,Mean
 E01002700,Islington 017C,Year ending Dec 2017,1541034,Mean
 E01002701,Islington 023A,Year ending Dec 2017,695833,Mean
-E01002702,Islington 023B,Year ending Dec 2017,:,Mean
+E01002702,Islington 023B,Year ending Dec 2017,,Mean
 E01002703,Islington 023C,Year ending Dec 2017,675222,Mean
 E01002704,Islington 023D,Year ending Dec 2017,761579,Mean
 E01002706,Islington 023E,Year ending Dec 2017,858000,Mean
 E01002707,Islington 022B,Year ending Dec 2017,698409,Mean
 E01002708,Islington 015A,Year ending Dec 2017,523250,Mean
 E01002709,Islington 019C,Year ending Dec 2017,472344,Mean
-E01002710,Islington 019D,Year ending Dec 2017,:,Mean
+E01002710,Islington 019D,Year ending Dec 2017,,Mean
 E01002711,Islington 021B,Year ending Dec 2017,825681,Mean
 E01002712,Islington 015B,Year ending Dec 2017,745563,Mean
 E01002713,Islington 015C,Year ending Dec 2017,424167,Mean
@@ -2662,16 +2662,16 @@ E01002721,Islington 014C,Year ending Dec 2017,827768,Mean
 E01002722,Islington 018A,Year ending Dec 2017,956317,Mean
 E01002723,Islington 022C,Year ending Dec 2017,765529,Mean
 E01002724,Islington 022D,Year ending Dec 2017,1020335,Mean
-E01002725,Islington 022E,Year ending Dec 2017,:,Mean
+E01002725,Islington 022E,Year ending Dec 2017,,Mean
 E01002726,Islington 022F,Year ending Dec 2017,709800,Mean
 E01002727,Islington 021C,Year ending Dec 2017,921000,Mean
-E01002728,Islington 021D,Year ending Dec 2017,:,Mean
+E01002728,Islington 021D,Year ending Dec 2017,,Mean
 E01002729,Islington 021E,Year ending Dec 2017,1119393,Mean
 E01002730,Islington 007A,Year ending Dec 2017,693613,Mean
 E01002731,Islington 007B,Year ending Dec 2017,583433,Mean
 E01002732,Islington 005A,Year ending Dec 2017,487658,Mean
 E01002733,Islington 007C,Year ending Dec 2017,536179,Mean
-E01002734,Islington 005B,Year ending Dec 2017,:,Mean
+E01002734,Islington 005B,Year ending Dec 2017,,Mean
 E01002735,Islington 003A,Year ending Dec 2017,515122,Mean
 E01002736,Islington 005C,Year ending Dec 2017,458800,Mean
 E01002737,Islington 005D,Year ending Dec 2017,519200,Mean
@@ -2686,9 +2686,9 @@ E01002745,Islington 013C,Year ending Dec 2017,727563,Mean
 E01002747,Islington 006B,Year ending Dec 2017,890836,Mean
 E01002748,Islington 006C,Year ending Dec 2017,906800,Mean
 E01002749,Islington 006D,Year ending Dec 2017,621650,Mean
-E01002751,Islington 005E,Year ending Dec 2017,:,Mean
+E01002751,Islington 005E,Year ending Dec 2017,,Mean
 E01002752,Islington 009E,Year ending Dec 2017,823833,Mean
-E01002753,Islington 002A,Year ending Dec 2017,:,Mean
+E01002753,Islington 002A,Year ending Dec 2017,,Mean
 E01002754,Islington 002B,Year ending Dec 2017,1283917,Mean
 E01002755,Islington 001A,Year ending Dec 2017,498375,Mean
 E01002756,Islington 001B,Year ending Dec 2017,705000,Mean
@@ -2705,9 +2705,9 @@ E01002767,Islington 011D,Year ending Dec 2017,477477,Mean
 E01002768,Islington 004A,Year ending Dec 2017,562250,Mean
 E01002769,Islington 008A,Year ending Dec 2017,1160616,Mean
 E01002770,Islington 004B,Year ending Dec 2017,776346,Mean
-E01002771,Islington 004C,Year ending Dec 2017,:,Mean
+E01002771,Islington 004C,Year ending Dec 2017,,Mean
 E01002772,Islington 002F,Year ending Dec 2017,455254,Mean
-E01002773,Islington 004D,Year ending Dec 2017,:,Mean
+E01002773,Islington 004D,Year ending Dec 2017,,Mean
 E01002774,Islington 004E,Year ending Dec 2017,536346,Mean
 E01002775,Islington 014D,Year ending Dec 2017,691385,Mean
 E01002776,Islington 014E,Year ending Dec 2017,660646,Mean
@@ -2774,10 +2774,10 @@ E01002836,Kensington and Chelsea 016D,Year ending Dec 2017,1610305,Mean
 E01002837,Kensington and Chelsea 016E,Year ending Dec 2017,2391786,Mean
 E01002838,Kensington and Chelsea 020A,Year ending Dec 2017,1405833,Mean
 E01002839,Kensington and Chelsea 013C,Year ending Dec 2017,864980,Mean
-E01002840,Kensington and Chelsea 021A,Year ending Dec 2017,:,Mean
+E01002840,Kensington and Chelsea 021A,Year ending Dec 2017,,Mean
 E01002841,Kensington and Chelsea 021B,Year ending Dec 2017,1472342,Mean
-E01002842,Kensington and Chelsea 021C,Year ending Dec 2017,:,Mean
-E01002843,Kensington and Chelsea 021D,Year ending Dec 2017,:,Mean
+E01002842,Kensington and Chelsea 021C,Year ending Dec 2017,,Mean
+E01002843,Kensington and Chelsea 021D,Year ending Dec 2017,,Mean
 E01002844,Kensington and Chelsea 019A,Year ending Dec 2017,2102059,Mean
 E01002845,Kensington and Chelsea 019B,Year ending Dec 2017,1089000,Mean
 E01002846,Kensington and Chelsea 017A,Year ending Dec 2017,776468,Mean
@@ -2788,10 +2788,10 @@ E01002850,Kensington and Chelsea 013D,Year ending Dec 2017,1482727,Mean
 E01002851,Kensington and Chelsea 015D,Year ending Dec 2017,825500,Mean
 E01002852,Kensington and Chelsea 001A,Year ending Dec 2017,523192,Mean
 E01002853,Kensington and Chelsea 001B,Year ending Dec 2017,1036136,Mean
-E01002854,Kensington and Chelsea 001C,Year ending Dec 2017,:,Mean
-E01002855,Kensington and Chelsea 001D,Year ending Dec 2017,:,Mean
+E01002854,Kensington and Chelsea 001C,Year ending Dec 2017,,Mean
+E01002855,Kensington and Chelsea 001D,Year ending Dec 2017,,Mean
 E01002856,Kensington and Chelsea 004E,Year ending Dec 2017,1078591,Mean
-E01002857,Kensington and Chelsea 001E,Year ending Dec 2017,:,Mean
+E01002857,Kensington and Chelsea 001E,Year ending Dec 2017,,Mean
 E01002858,Kensington and Chelsea 014C,Year ending Dec 2017,1076923,Mean
 E01002859,Kensington and Chelsea 012C,Year ending Dec 2017,2521063,Mean
 E01002860,Kensington and Chelsea 012D,Year ending Dec 2017,2674835,Mean
@@ -2804,18 +2804,18 @@ E01002866,Kensington and Chelsea 009B,Year ending Dec 2017,681692,Mean
 E01002867,Kensington and Chelsea 009C,Year ending Dec 2017,1029038,Mean
 E01002868,Kensington and Chelsea 009D,Year ending Dec 2017,2891222,Mean
 E01002869,Kensington and Chelsea 009E,Year ending Dec 2017,1054299,Mean
-E01002870,Kensington and Chelsea 005A,Year ending Dec 2017,:,Mean
+E01002870,Kensington and Chelsea 005A,Year ending Dec 2017,,Mean
 E01002871,Kensington and Chelsea 007B,Year ending Dec 2017,3570541,Mean
-E01002872,Kensington and Chelsea 005B,Year ending Dec 2017,:,Mean
+E01002872,Kensington and Chelsea 005B,Year ending Dec 2017,,Mean
 E01002873,Kensington and Chelsea 007C,Year ending Dec 2017,1621169,Mean
 E01002874,Kensington and Chelsea 007D,Year ending Dec 2017,768994,Mean
 E01002875,Kensington and Chelsea 007E,Year ending Dec 2017,3728884,Mean
 E01002876,Kensington and Chelsea 003A,Year ending Dec 2017,1545944,Mean
-E01002877,Kensington and Chelsea 003B,Year ending Dec 2017,:,Mean
+E01002877,Kensington and Chelsea 003B,Year ending Dec 2017,,Mean
 E01002878,Kensington and Chelsea 003C,Year ending Dec 2017,759381,Mean
 E01002879,Kensington and Chelsea 005C,Year ending Dec 2017,555619,Mean
-E01002880,Kensington and Chelsea 005D,Year ending Dec 2017,:,Mean
-E01002881,Kensington and Chelsea 005E,Year ending Dec 2017,:,Mean
+E01002880,Kensington and Chelsea 005D,Year ending Dec 2017,,Mean
+E01002881,Kensington and Chelsea 005E,Year ending Dec 2017,,Mean
 E01002882,Kensington and Chelsea 006A,Year ending Dec 2017,2589091,Mean
 E01002883,Kensington and Chelsea 006B,Year ending Dec 2017,2165643,Mean
 E01002884,Kensington and Chelsea 006C,Year ending Dec 2017,1408000,Mean
@@ -2838,10 +2838,10 @@ E01002900,Kensington and Chelsea 018B,Year ending Dec 2017,2438896,Mean
 E01002901,Kensington and Chelsea 018C,Year ending Dec 2017,2140083,Mean
 E01002902,Kensington and Chelsea 018D,Year ending Dec 2017,1987242,Mean
 E01002903,Kensington and Chelsea 018E,Year ending Dec 2017,3565072,Mean
-E01002904,Kensington and Chelsea 002A,Year ending Dec 2017,:,Mean
-E01002905,Kensington and Chelsea 002B,Year ending Dec 2017,:,Mean
+E01002904,Kensington and Chelsea 002A,Year ending Dec 2017,,Mean
+E01002905,Kensington and Chelsea 002B,Year ending Dec 2017,,Mean
 E01002906,Kensington and Chelsea 002C,Year ending Dec 2017,768143,Mean
-E01002907,Kensington and Chelsea 002D,Year ending Dec 2017,:,Mean
+E01002907,Kensington and Chelsea 002D,Year ending Dec 2017,,Mean
 E01002908,Kensington and Chelsea 003D,Year ending Dec 2017,1352500,Mean
 E01002909,Kensington and Chelsea 003E,Year ending Dec 2017,974169,Mean
 E01002910,Kensington and Chelsea 019C,Year ending Dec 2017,3715867,Mean
@@ -2895,14 +2895,14 @@ E01002958,Kingston upon Thames 008C,Year ending Dec 2017,613977,Mean
 E01002959,Kingston upon Thames 002E,Year ending Dec 2017,1373353,Mean
 E01002960,Kingston upon Thames 006B,Year ending Dec 2017,708883,Mean
 E01002961,Kingston upon Thames 008D,Year ending Dec 2017,896408,Mean
-E01002962,Kingston upon Thames 006C,Year ending Dec 2017,:,Mean
+E01002962,Kingston upon Thames 006C,Year ending Dec 2017,,Mean
 E01002963,Kingston upon Thames 007D,Year ending Dec 2017,586523,Mean
 E01002964,Kingston upon Thames 005A,Year ending Dec 2017,490483,Mean
 E01002965,Kingston upon Thames 009A,Year ending Dec 2017,604739,Mean
 E01002966,Kingston upon Thames 010C,Year ending Dec 2017,562588,Mean
 E01002967,Kingston upon Thames 009B,Year ending Dec 2017,551965,Mean
 E01002968,Kingston upon Thames 009C,Year ending Dec 2017,535899,Mean
-E01002969,Kingston upon Thames 005B,Year ending Dec 2017,:,Mean
+E01002969,Kingston upon Thames 005B,Year ending Dec 2017,,Mean
 E01002970,Kingston upon Thames 006D,Year ending Dec 2017,458322,Mean
 E01002971,Kingston upon Thames 005C,Year ending Dec 2017,511626,Mean
 E01002972,Kingston upon Thames 005D,Year ending Dec 2017,450042,Mean
@@ -2949,7 +2949,7 @@ E01003013,Lambeth 036A,Year ending Dec 2017,765687,Mean
 E01003014,Lambeth 036B,Year ending Dec 2017,651136,Mean
 E01003015,Lambeth 002A,Year ending Dec 2017,332543,Mean
 E01003016,Lambeth 036C,Year ending Dec 2017,937571,Mean
-E01003017,Lambeth 036D,Year ending Dec 2017,:,Mean
+E01003017,Lambeth 036D,Year ending Dec 2017,,Mean
 E01003018,Lambeth 020A,Year ending Dec 2017,589188,Mean
 E01003019,Lambeth 015A,Year ending Dec 2017,755496,Mean
 E01003020,Lambeth 016A,Year ending Dec 2017,690468,Mean
@@ -2976,15 +2976,15 @@ E01003040,Lambeth 013D,Year ending Dec 2017,602821,Mean
 E01003041,Lambeth 017C,Year ending Dec 2017,478538,Mean
 E01003042,Lambeth 013E,Year ending Dec 2017,992308,Mean
 E01003043,Lambeth 018A,Year ending Dec 2017,787543,Mean
-E01003044,Lambeth 018B,Year ending Dec 2017,:,Mean
-E01003045,Lambeth 011A,Year ending Dec 2017,:,Mean
+E01003044,Lambeth 018B,Year ending Dec 2017,,Mean
+E01003045,Lambeth 011A,Year ending Dec 2017,,Mean
 E01003046,Lambeth 009A,Year ending Dec 2017,401000,Mean
 E01003047,Lambeth 011B,Year ending Dec 2017,441708,Mean
 E01003048,Lambeth 009B,Year ending Dec 2017,439000,Mean
-E01003049,Lambeth 011C,Year ending Dec 2017,:,Mean
+E01003049,Lambeth 011C,Year ending Dec 2017,,Mean
 E01003050,Lambeth 016B,Year ending Dec 2017,616661,Mean
 E01003051,Lambeth 018C,Year ending Dec 2017,488378,Mean
-E01003052,Lambeth 016C,Year ending Dec 2017,:,Mean
+E01003052,Lambeth 016C,Year ending Dec 2017,,Mean
 E01003053,Lambeth 015B,Year ending Dec 2017,642826,Mean
 E01003054,Lambeth 015C,Year ending Dec 2017,586109,Mean
 E01003055,Lambeth 016D,Year ending Dec 2017,570750,Mean
@@ -3042,7 +3042,7 @@ E01003107,Lambeth 003D,Year ending Dec 2017,783824,Mean
 E01003108,Lambeth 002B,Year ending Dec 2017,373813,Mean
 E01003109,Lambeth 003E,Year ending Dec 2017,1876042,Mean
 E01003110,Lambeth 002C,Year ending Dec 2017,833780,Mean
-E01003111,Lambeth 002D,Year ending Dec 2017,:,Mean
+E01003111,Lambeth 002D,Year ending Dec 2017,,Mean
 E01003112,Lambeth 002E,Year ending Dec 2017,883217,Mean
 E01003113,Lambeth 032A,Year ending Dec 2017,471609,Mean
 E01003114,Lambeth 032B,Year ending Dec 2017,515178,Mean
@@ -3052,11 +3052,11 @@ E01003117,Lambeth 029B,Year ending Dec 2017,432060,Mean
 E01003118,Lambeth 029C,Year ending Dec 2017,714369,Mean
 E01003119,Lambeth 032C,Year ending Dec 2017,643151,Mean
 E01003120,Lambeth 032D,Year ending Dec 2017,457788,Mean
-E01003121,Lambeth 006B,Year ending Dec 2017,:,Mean
+E01003121,Lambeth 006B,Year ending Dec 2017,,Mean
 E01003122,Lambeth 004D,Year ending Dec 2017,535152,Mean
 E01003123,Lambeth 006C,Year ending Dec 2017,835935,Mean
 E01003124,Lambeth 006D,Year ending Dec 2017,623300,Mean
-E01003125,Lambeth 006E,Year ending Dec 2017,:,Mean
+E01003125,Lambeth 006E,Year ending Dec 2017,,Mean
 E01003126,Lambeth 008D,Year ending Dec 2017,516985,Mean
 E01003127,Lambeth 010E,Year ending Dec 2017,894222,Mean
 E01003128,Lambeth 008E,Year ending Dec 2017,341163,Mean
@@ -3099,7 +3099,7 @@ E01003164,Lambeth 025A,Year ending Dec 2017,479225,Mean
 E01003165,Lambeth 025B,Year ending Dec 2017,546662,Mean
 E01003166,Lambeth 028D,Year ending Dec 2017,465448,Mean
 E01003167,Lambeth 028E,Year ending Dec 2017,819073,Mean
-E01003168,Lambeth 025C,Year ending Dec 2017,:,Mean
+E01003168,Lambeth 025C,Year ending Dec 2017,,Mean
 E01003169,Lambeth 025D,Year ending Dec 2017,579226,Mean
 E01003170,Lambeth 025E,Year ending Dec 2017,742452,Mean
 E01003171,Lambeth 020B,Year ending Dec 2017,545565,Mean
@@ -3172,14 +3172,14 @@ E01003239,Lewisham 037D,Year ending Dec 2017,331129,Mean
 E01003240,Lewisham 038B,Year ending Dec 2017,322079,Mean
 E01003241,Lewisham 038C,Year ending Dec 2017,392667,Mean
 E01003243,Lewisham 038D,Year ending Dec 2017,298750,Mean
-E01003244,Lewisham 001A,Year ending Dec 2017,:,Mean
+E01003244,Lewisham 001A,Year ending Dec 2017,,Mean
 E01003245,Lewisham 001B,Year ending Dec 2017,214375,Mean
 E01003246,Lewisham 002A,Year ending Dec 2017,337350,Mean
 E01003247,Lewisham 001C,Year ending Dec 2017,429700,Mean
 E01003248,Lewisham 002B,Year ending Dec 2017,338844,Mean
 E01003249,Lewisham 001D,Year ending Dec 2017,310472,Mean
 E01003250,Lewisham 001E,Year ending Dec 2017,529367,Mean
-E01003251,Lewisham 002C,Year ending Dec 2017,:,Mean
+E01003251,Lewisham 002C,Year ending Dec 2017,,Mean
 E01003252,Lewisham 002D,Year ending Dec 2017,323200,Mean
 E01003253,Lewisham 002E,Year ending Dec 2017,631469,Mean
 E01003254,Lewisham 021A,Year ending Dec 2017,718262,Mean
@@ -3224,8 +3224,8 @@ E01003293,Lewisham 017B,Year ending Dec 2017,419107,Mean
 E01003295,Lewisham 017D,Year ending Dec 2017,460500,Mean
 E01003296,Lewisham 012E,Year ending Dec 2017,387871,Mean
 E01003297,Lewisham 003A,Year ending Dec 2017,244583,Mean
-E01003298,Lewisham 039A,Year ending Dec 2017,:,Mean
-E01003299,Lewisham 003B,Year ending Dec 2017,:,Mean
+E01003298,Lewisham 039A,Year ending Dec 2017,,Mean
+E01003299,Lewisham 003B,Year ending Dec 2017,,Mean
 E01003300,Lewisham 039B,Year ending Dec 2017,443000,Mean
 E01003301,Lewisham 003C,Year ending Dec 2017,408891,Mean
 E01003302,Lewisham 003D,Year ending Dec 2017,390708,Mean
@@ -3316,7 +3316,7 @@ E01003387,Merton 014A,Year ending Dec 2017,316500,Mean
 E01003388,Merton 013B,Year ending Dec 2017,318063,Mean
 E01003389,Merton 013C,Year ending Dec 2017,338079,Mean
 E01003390,Merton 018D,Year ending Dec 2017,232789,Mean
-E01003391,Merton 014B,Year ending Dec 2017,:,Mean
+E01003391,Merton 014B,Year ending Dec 2017,,Mean
 E01003392,Merton 013D,Year ending Dec 2017,370091,Mean
 E01003393,Merton 008C,Year ending Dec 2017,386921,Mean
 E01003394,Merton 007A,Year ending Dec 2017,507423,Mean
@@ -3334,7 +3334,7 @@ E01003405,Merton 018E,Year ending Dec 2017,337881,Mean
 E01003406,Merton 008D,Year ending Dec 2017,464000,Mean
 E01003407,Merton 008E,Year ending Dec 2017,326609,Mean
 E01003408,Merton 012D,Year ending Dec 2017,381843,Mean
-E01003409,Merton 013E,Year ending Dec 2017,:,Mean
+E01003409,Merton 013E,Year ending Dec 2017,,Mean
 E01003410,Merton 012E,Year ending Dec 2017,263250,Mean
 E01003411,Merton 014C,Year ending Dec 2017,355794,Mean
 E01003412,Merton 014D,Year ending Dec 2017,361269,Mean
@@ -3408,15 +3408,15 @@ E01003479,Newham 035A,Year ending Dec 2017,306167,Mean
 E01003480,Newham 033A,Year ending Dec 2017,293400,Mean
 E01003481,Newham 035B,Year ending Dec 2017,332157,Mean
 E01003482,Newham 033B,Year ending Dec 2017,412232,Mean
-E01003483,Newham 032A,Year ending Dec 2017,:,Mean
+E01003483,Newham 032A,Year ending Dec 2017,,Mean
 E01003484,Newham 032B,Year ending Dec 2017,336545,Mean
 E01003485,Newham 035C,Year ending Dec 2017,355187,Mean
-E01003486,Newham 033C,Year ending Dec 2017,:,Mean
-E01003487,Newham 033D,Year ending Dec 2017,:,Mean
+E01003486,Newham 033C,Year ending Dec 2017,,Mean
+E01003487,Newham 033D,Year ending Dec 2017,,Mean
 E01003488,Newham 019A,Year ending Dec 2017,364500,Mean
 E01003489,Newham 019B,Year ending Dec 2017,372547,Mean
-E01003490,Newham 019C,Year ending Dec 2017,:,Mean
-E01003491,Newham 022A,Year ending Dec 2017,:,Mean
+E01003490,Newham 019C,Year ending Dec 2017,,Mean
+E01003491,Newham 022A,Year ending Dec 2017,,Mean
 E01003492,Newham 025A,Year ending Dec 2017,346150,Mean
 E01003493,Newham 025B,Year ending Dec 2017,346444,Mean
 E01003494,Newham 025C,Year ending Dec 2017,359223,Mean
@@ -3439,7 +3439,7 @@ E01003513,Newham 035D,Year ending Dec 2017,326545,Mean
 E01003514,Newham 036C,Year ending Dec 2017,311125,Mean
 E01003515,Newham 036D,Year ending Dec 2017,336071,Mean
 E01003516,Newham 032C,Year ending Dec 2017,349500,Mean
-E01003517,Newham 036E,Year ending Dec 2017,:,Mean
+E01003517,Newham 036E,Year ending Dec 2017,,Mean
 E01003518,Newham 032D,Year ending Dec 2017,341091,Mean
 E01003519,Newham 032E,Year ending Dec 2017,383000,Mean
 E01003520,Newham 018A,Year ending Dec 2017,305500,Mean
@@ -3450,7 +3450,7 @@ E01003524,Newham 019D,Year ending Dec 2017,329222,Mean
 E01003525,Newham 018D,Year ending Dec 2017,315800,Mean
 E01003526,Newham 018E,Year ending Dec 2017,397045,Mean
 E01003527,Newham 024B,Year ending Dec 2017,389885,Mean
-E01003528,Newham 005A,Year ending Dec 2017,:,Mean
+E01003528,Newham 005A,Year ending Dec 2017,,Mean
 E01003529,Newham 010A,Year ending Dec 2017,437800,Mean
 E01003530,Newham 010B,Year ending Dec 2017,348400,Mean
 E01003531,Newham 010C,Year ending Dec 2017,362300,Mean
@@ -3483,19 +3483,19 @@ E01003557,Newham 006D,Year ending Dec 2017,380222,Mean
 E01003558,Newham 008B,Year ending Dec 2017,412583,Mean
 E01003559,Newham 009D,Year ending Dec 2017,400500,Mean
 E01003560,Newham 011B,Year ending Dec 2017,440655,Mean
-E01003561,Newham 007C,Year ending Dec 2017,:,Mean
+E01003561,Newham 007C,Year ending Dec 2017,,Mean
 E01003562,Newham 014A,Year ending Dec 2017,375167,Mean
 E01003563,Newham 011C,Year ending Dec 2017,338625,Mean
-E01003564,Newham 014B,Year ending Dec 2017,:,Mean
+E01003564,Newham 014B,Year ending Dec 2017,,Mean
 E01003565,Newham 014C,Year ending Dec 2017,349000,Mean
-E01003566,Newham 014D,Year ending Dec 2017,:,Mean
+E01003566,Newham 014D,Year ending Dec 2017,,Mean
 E01003567,Newham 007D,Year ending Dec 2017,391000,Mean
-E01003568,Newham 017A,Year ending Dec 2017,:,Mean
+E01003568,Newham 017A,Year ending Dec 2017,,Mean
 E01003569,Newham 017B,Year ending Dec 2017,392750,Mean
 E01003570,Newham 008C,Year ending Dec 2017,348250,Mean
 E01003571,Newham 008D,Year ending Dec 2017,318359,Mean
-E01003572,Newham 008E,Year ending Dec 2017,:,Mean
-E01003573,Newham 017C,Year ending Dec 2017,:,Mean
+E01003572,Newham 008E,Year ending Dec 2017,,Mean
+E01003573,Newham 017C,Year ending Dec 2017,,Mean
 E01003574,Newham 017D,Year ending Dec 2017,433000,Mean
 E01003575,Newham 005B,Year ending Dec 2017,293571,Mean
 E01003576,Newham 002A,Year ending Dec 2017,295045,Mean
@@ -3505,12 +3505,12 @@ E01003579,Newham 004A,Year ending Dec 2017,308583,Mean
 E01003580,Newham 005D,Year ending Dec 2017,271625,Mean
 E01003581,Newham 002B,Year ending Dec 2017,367400,Mean
 E01003582,Newham 002C,Year ending Dec 2017,341222,Mean
-E01003583,Newham 002D,Year ending Dec 2017,:,Mean
+E01003583,Newham 002D,Year ending Dec 2017,,Mean
 E01003584,Newham 003B,Year ending Dec 2017,631000,Mean
 E01003585,Newham 004B,Year ending Dec 2017,465500,Mean
 E01003586,Newham 003C,Year ending Dec 2017,365429,Mean
 E01003587,Newham 004C,Year ending Dec 2017,312571,Mean
-E01003588,Newham 011D,Year ending Dec 2017,:,Mean
+E01003588,Newham 011D,Year ending Dec 2017,,Mean
 E01003589,Newham 011E,Year ending Dec 2017,328419,Mean
 E01003590,Newham 003D,Year ending Dec 2017,294500,Mean
 E01003591,Newham 004D,Year ending Dec 2017,300250,Mean
@@ -3519,9 +3519,9 @@ E01003593,Newham 027D,Year ending Dec 2017,301850,Mean
 E01003594,Newham 026A,Year ending Dec 2017,345140,Mean
 E01003595,Newham 026B,Year ending Dec 2017,261032,Mean
 E01003596,Newham 016B,Year ending Dec 2017,508750,Mean
-E01003597,Newham 016C,Year ending Dec 2017,:,Mean
+E01003597,Newham 016C,Year ending Dec 2017,,Mean
 E01003598,Newham 021A,Year ending Dec 2017,234350,Mean
-E01003599,Newham 022C,Year ending Dec 2017,:,Mean
+E01003599,Newham 022C,Year ending Dec 2017,,Mean
 E01003600,Newham 021B,Year ending Dec 2017,341854,Mean
 E01003601,Newham 028A,Year ending Dec 2017,365500,Mean
 E01003602,Newham 026C,Year ending Dec 2017,368615,Mean
@@ -3529,7 +3529,7 @@ E01003603,Newham 028B,Year ending Dec 2017,361000,Mean
 E01003604,Newham 031D,Year ending Dec 2017,309800,Mean
 E01003605,Newham 028C,Year ending Dec 2017,334700,Mean
 E01003606,Newham 022D,Year ending Dec 2017,425036,Mean
-E01003607,Newham 026D,Year ending Dec 2017,:,Mean
+E01003607,Newham 026D,Year ending Dec 2017,,Mean
 E01003608,Newham 028D,Year ending Dec 2017,356517,Mean
 E01003609,Newham 037A,Year ending Dec 2017,373064,Mean
 E01003611,Newham 037C,Year ending Dec 2017,228750,Mean
@@ -3543,8 +3543,8 @@ E01003622,Newham 023D,Year ending Dec 2017,359667,Mean
 E01003623,Newham 023E,Year ending Dec 2017,298188,Mean
 E01003624,Newham 024E,Year ending Dec 2017,345300,Mean
 E01003625,Newham 015A,Year ending Dec 2017,315900,Mean
-E01003626,Newham 015B,Year ending Dec 2017,:,Mean
-E01003627,Newham 015C,Year ending Dec 2017,:,Mean
+E01003626,Newham 015B,Year ending Dec 2017,,Mean
+E01003627,Newham 015C,Year ending Dec 2017,,Mean
 E01003628,Newham 015D,Year ending Dec 2017,338500,Mean
 E01003629,Newham 015E,Year ending Dec 2017,297300,Mean
 E01003630,Newham 021C,Year ending Dec 2017,364071,Mean
@@ -3591,7 +3591,7 @@ E01003671,Redbridge 007D,Year ending Dec 2017,691215,Mean
 E01003672,Redbridge 007E,Year ending Dec 2017,442065,Mean
 E01003673,Redbridge 007F,Year ending Dec 2017,528676,Mean
 E01003674,Redbridge 007G,Year ending Dec 2017,452923,Mean
-E01003675,Redbridge 036A,Year ending Dec 2017,:,Mean
+E01003675,Redbridge 036A,Year ending Dec 2017,,Mean
 E01003676,Redbridge 036B,Year ending Dec 2017,567786,Mean
 E01003677,Redbridge 036C,Year ending Dec 2017,582594,Mean
 E01003678,Redbridge 036D,Year ending Dec 2017,549741,Mean
@@ -3603,13 +3603,13 @@ E01003683,Redbridge 030A,Year ending Dec 2017,345700,Mean
 E01003684,Redbridge 030B,Year ending Dec 2017,371000,Mean
 E01003685,Redbridge 030C,Year ending Dec 2017,330100,Mean
 E01003686,Redbridge 030D,Year ending Dec 2017,363596,Mean
-E01003688,Redbridge 030F,Year ending Dec 2017,:,Mean
+E01003688,Redbridge 030F,Year ending Dec 2017,,Mean
 E01003689,Redbridge 030G,Year ending Dec 2017,383954,Mean
 E01003690,Redbridge 035A,Year ending Dec 2017,418710,Mean
-E01003691,Redbridge 035B,Year ending Dec 2017,:,Mean
+E01003691,Redbridge 035B,Year ending Dec 2017,,Mean
 E01003692,Redbridge 035C,Year ending Dec 2017,402600,Mean
 E01003693,Redbridge 035D,Year ending Dec 2017,571167,Mean
-E01003694,Redbridge 035E,Year ending Dec 2017,:,Mean
+E01003694,Redbridge 035E,Year ending Dec 2017,,Mean
 E01003695,Redbridge 035F,Year ending Dec 2017,475286,Mean
 E01003696,Redbridge 035G,Year ending Dec 2017,452250,Mean
 E01003697,Redbridge 035H,Year ending Dec 2017,476111,Mean
@@ -3643,8 +3643,8 @@ E01003725,Redbridge 003C,Year ending Dec 2017,340719,Mean
 E01003726,Redbridge 002D,Year ending Dec 2017,386978,Mean
 E01003727,Redbridge 003D,Year ending Dec 2017,327238,Mean
 E01003728,Redbridge 032A,Year ending Dec 2017,316400,Mean
-E01003729,Redbridge 032B,Year ending Dec 2017,:,Mean
-E01003730,Redbridge 032C,Year ending Dec 2017,:,Mean
+E01003729,Redbridge 032B,Year ending Dec 2017,,Mean
+E01003730,Redbridge 032C,Year ending Dec 2017,,Mean
 E01003731,Redbridge 033A,Year ending Dec 2017,329000,Mean
 E01003732,Redbridge 032D,Year ending Dec 2017,266000,Mean
 E01003733,Redbridge 032E,Year ending Dec 2017,342458,Mean
@@ -3657,7 +3657,7 @@ E01003739,Redbridge 031C,Year ending Dec 2017,330353,Mean
 E01003740,Redbridge 031D,Year ending Dec 2017,516181,Mean
 E01003741,Redbridge 031E,Year ending Dec 2017,340692,Mean
 E01003742,Redbridge 031F,Year ending Dec 2017,377643,Mean
-E01003743,Redbridge 031G,Year ending Dec 2017,:,Mean
+E01003743,Redbridge 031G,Year ending Dec 2017,,Mean
 E01003744,Redbridge 001A,Year ending Dec 2017,560339,Mean
 E01003745,Redbridge 001B,Year ending Dec 2017,1070667,Mean
 E01003746,Redbridge 001C,Year ending Dec 2017,620739,Mean
@@ -3685,7 +3685,7 @@ E01003767,Redbridge 024B,Year ending Dec 2017,380000,Mean
 E01003768,Redbridge 024C,Year ending Dec 2017,315143,Mean
 E01003769,Redbridge 022A,Year ending Dec 2017,382917,Mean
 E01003770,Redbridge 022B,Year ending Dec 2017,400528,Mean
-E01003771,Redbridge 022C,Year ending Dec 2017,:,Mean
+E01003771,Redbridge 022C,Year ending Dec 2017,,Mean
 E01003772,Redbridge 024D,Year ending Dec 2017,425000,Mean
 E01003773,Redbridge 022D,Year ending Dec 2017,417273,Mean
 E01003774,Redbridge 014A,Year ending Dec 2017,522475,Mean
@@ -3825,7 +3825,7 @@ E01003908,Richmond upon Thames 010D,Year ending Dec 2017,537997,Mean
 E01003909,Richmond upon Thames 010E,Year ending Dec 2017,527544,Mean
 E01003910,Richmond upon Thames 011D,Year ending Dec 2017,577556,Mean
 E01003911,Southwark 020A,Year ending Dec 2017,473382,Mean
-E01003912,Southwark 019A,Year ending Dec 2017,:,Mean
+E01003912,Southwark 019A,Year ending Dec 2017,,Mean
 E01003913,Southwark 024A,Year ending Dec 2017,719909,Mean
 E01003914,Southwark 024B,Year ending Dec 2017,747857,Mean
 E01003915,Southwark 024C,Year ending Dec 2017,490568,Mean
@@ -3837,7 +3837,7 @@ E01003920,Southwark 021B,Year ending Dec 2017,365889,Mean
 E01003921,Southwark 021C,Year ending Dec 2017,510416,Mean
 E01003922,Southwark 021D,Year ending Dec 2017,379555,Mean
 E01003923,Southwark 017A,Year ending Dec 2017,648746,Mean
-E01003924,Southwark 021E,Year ending Dec 2017,:,Mean
+E01003924,Southwark 021E,Year ending Dec 2017,,Mean
 E01003925,Southwark 020E,Year ending Dec 2017,373892,Mean
 E01003926,Southwark 021F,Year ending Dec 2017,419250,Mean
 E01003927,Southwark 002A,Year ending Dec 2017,519500,Mean
@@ -3846,7 +3846,7 @@ E01003930,Southwark 034A,Year ending Dec 2017,747266,Mean
 E01003932,Southwark 034B,Year ending Dec 2017,485313,Mean
 E01003933,Southwark 034C,Year ending Dec 2017,811906,Mean
 E01003934,Southwark 002C,Year ending Dec 2017,1231275,Mean
-E01003935,Southwark 002D,Year ending Dec 2017,:,Mean
+E01003935,Southwark 002D,Year ending Dec 2017,,Mean
 E01003936,Southwark 009A,Year ending Dec 2017,702245,Mean
 E01003937,Southwark 009B,Year ending Dec 2017,465734,Mean
 E01003938,Southwark 006A,Year ending Dec 2017,428667,Mean
@@ -3854,7 +3854,7 @@ E01003939,Southwark 002E,Year ending Dec 2017,658500,Mean
 E01003940,Southwark 006B,Year ending Dec 2017,472420,Mean
 E01003941,Southwark 006C,Year ending Dec 2017,671444,Mean
 E01003942,Southwark 006D,Year ending Dec 2017,596196,Mean
-E01003943,Southwark 009C,Year ending Dec 2017,:,Mean
+E01003943,Southwark 009C,Year ending Dec 2017,,Mean
 E01003945,Southwark 033A,Year ending Dec 2017,654865,Mean
 E01003946,Southwark 033B,Year ending Dec 2017,804486,Mean
 E01003947,Southwark 033C,Year ending Dec 2017,336643,Mean
@@ -3875,13 +3875,13 @@ E01003963,Southwark 016A,Year ending Dec 2017,372081,Mean
 E01003964,Southwark 015A,Year ending Dec 2017,576531,Mean
 E01003966,Southwark 015B,Year ending Dec 2017,498250,Mean
 E01003967,Southwark 016B,Year ending Dec 2017,509900,Mean
-E01003968,Southwark 015C,Year ending Dec 2017,:,Mean
+E01003968,Southwark 015C,Year ending Dec 2017,,Mean
 E01003969,Southwark 017B,Year ending Dec 2017,453192,Mean
-E01003970,Southwark 016C,Year ending Dec 2017,:,Mean
+E01003970,Southwark 016C,Year ending Dec 2017,,Mean
 E01003971,Southwark 015D,Year ending Dec 2017,519500,Mean
 E01003972,Southwark 016D,Year ending Dec 2017,457308,Mean
-E01003973,Southwark 016E,Year ending Dec 2017,:,Mean
-E01003974,Southwark 015E,Year ending Dec 2017,:,Mean
+E01003973,Southwark 016E,Year ending Dec 2017,,Mean
+E01003974,Southwark 015E,Year ending Dec 2017,,Mean
 E01003975,Southwark 004A,Year ending Dec 2017,327650,Mean
 E01003976,Southwark 003A,Year ending Dec 2017,581059,Mean
 E01003977,Southwark 010A,Year ending Dec 2017,384312,Mean
@@ -3898,8 +3898,8 @@ E01003989,Southwark 018C,Year ending Dec 2017,488952,Mean
 E01003990,Southwark 018D,Year ending Dec 2017,309333,Mean
 E01003991,Southwark 017C,Year ending Dec 2017,496333,Mean
 E01003992,Southwark 014A,Year ending Dec 2017,465250,Mean
-E01003993,Southwark 017D,Year ending Dec 2017,:,Mean
-E01003994,Southwark 012E,Year ending Dec 2017,:,Mean
+E01003993,Southwark 017D,Year ending Dec 2017,,Mean
+E01003994,Southwark 012E,Year ending Dec 2017,,Mean
 E01003995,Southwark 014B,Year ending Dec 2017,433500,Mean
 E01003997,Southwark 017E,Year ending Dec 2017,602111,Mean
 E01003998,Southwark 014D,Year ending Dec 2017,794048,Mean
@@ -3936,13 +3936,13 @@ E01004031,Southwark 007B,Year ending Dec 2017,509692,Mean
 E01004032,Southwark 001B,Year ending Dec 2017,644172,Mean
 E01004033,Southwark 007C,Year ending Dec 2017,528042,Mean
 E01004034,Southwark 007D,Year ending Dec 2017,674455,Mean
-E01004035,Southwark 011D,Year ending Dec 2017,:,Mean
+E01004035,Southwark 011D,Year ending Dec 2017,,Mean
 E01004036,Southwark 007E,Year ending Dec 2017,376000,Mean
 E01004037,Southwark 010B,Year ending Dec 2017,330271,Mean
 E01004038,Southwark 010C,Year ending Dec 2017,464303,Mean
 E01004039,Southwark 013B,Year ending Dec 2017,362999,Mean
-E01004040,Southwark 013C,Year ending Dec 2017,:,Mean
-E01004041,Southwark 013D,Year ending Dec 2017,:,Mean
+E01004040,Southwark 013C,Year ending Dec 2017,,Mean
+E01004041,Southwark 013D,Year ending Dec 2017,,Mean
 E01004042,Southwark 010D,Year ending Dec 2017,358455,Mean
 E01004043,Southwark 010E,Year ending Dec 2017,652708,Mean
 E01004044,Southwark 013E,Year ending Dec 2017,426375,Mean
@@ -3989,7 +3989,7 @@ E01004084,Sutton 024A,Year ending Dec 2017,658500,Mean
 E01004085,Sutton 024B,Year ending Dec 2017,551220,Mean
 E01004086,Sutton 019B,Year ending Dec 2017,359671,Mean
 E01004087,Sutton 017A,Year ending Dec 2017,582000,Mean
-E01004088,Sutton 019C,Year ending Dec 2017,:,Mean
+E01004088,Sutton 019C,Year ending Dec 2017,,Mean
 E01004089,Sutton 019D,Year ending Dec 2017,276357,Mean
 E01004090,Sutton 021A,Year ending Dec 2017,327889,Mean
 E01004091,Sutton 022A,Year ending Dec 2017,714219,Mean
@@ -4105,14 +4105,14 @@ E01004201,Tower Hamlets 002D,Year ending Dec 2017,481250,Mean
 E01004202,Tower Hamlets 005B,Year ending Dec 2017,610174,Mean
 E01004203,Tower Hamlets 005C,Year ending Dec 2017,554042,Mean
 E01004204,Tower Hamlets 005D,Year ending Dec 2017,482821,Mean
-E01004205,Tower Hamlets 013A,Year ending Dec 2017,:,Mean
-E01004206,Tower Hamlets 013B,Year ending Dec 2017,:,Mean
+E01004205,Tower Hamlets 013A,Year ending Dec 2017,,Mean
+E01004206,Tower Hamlets 013B,Year ending Dec 2017,,Mean
 E01004207,Tower Hamlets 011A,Year ending Dec 2017,586667,Mean
 E01004208,Tower Hamlets 013C,Year ending Dec 2017,473944,Mean
-E01004209,Tower Hamlets 011B,Year ending Dec 2017,:,Mean
+E01004209,Tower Hamlets 011B,Year ending Dec 2017,,Mean
 E01004211,Tower Hamlets 013D,Year ending Dec 2017,479000,Mean
 E01004212,Tower Hamlets 011D,Year ending Dec 2017,495276,Mean
-E01004214,Tower Hamlets 030A,Year ending Dec 2017,:,Mean
+E01004214,Tower Hamlets 030A,Year ending Dec 2017,,Mean
 E01004215,Tower Hamlets 028A,Year ending Dec 2017,576061,Mean
 E01004216,Tower Hamlets 030B,Year ending Dec 2017,511167,Mean
 E01004217,Tower Hamlets 030C,Year ending Dec 2017,444036,Mean
@@ -4145,25 +4145,25 @@ E01004245,Tower Hamlets 018A,Year ending Dec 2017,380533,Mean
 E01004246,Tower Hamlets 018B,Year ending Dec 2017,458400,Mean
 E01004247,Tower Hamlets 020C,Year ending Dec 2017,363988,Mean
 E01004248,Tower Hamlets 018C,Year ending Dec 2017,373840,Mean
-E01004249,Tower Hamlets 018D,Year ending Dec 2017,:,Mean
+E01004249,Tower Hamlets 018D,Year ending Dec 2017,,Mean
 E01004250,Tower Hamlets 020D,Year ending Dec 2017,332819,Mean
 E01004251,Tower Hamlets 023A,Year ending Dec 2017,403978,Mean
 E01004252,Tower Hamlets 024A,Year ending Dec 2017,365022,Mean
 E01004253,Tower Hamlets 024B,Year ending Dec 2017,473607,Mean
 E01004254,Tower Hamlets 023B,Year ending Dec 2017,536052,Mean
-E01004255,Tower Hamlets 023C,Year ending Dec 2017,:,Mean
+E01004255,Tower Hamlets 023C,Year ending Dec 2017,,Mean
 E01004256,Tower Hamlets 024C,Year ending Dec 2017,353375,Mean
-E01004257,Tower Hamlets 024D,Year ending Dec 2017,:,Mean
+E01004257,Tower Hamlets 024D,Year ending Dec 2017,,Mean
 E01004258,Tower Hamlets 023D,Year ending Dec 2017,733375,Mean
 E01004259,Tower Hamlets 007A,Year ending Dec 2017,476787,Mean
 E01004260,Tower Hamlets 007B,Year ending Dec 2017,483750,Mean
-E01004261,Tower Hamlets 010A,Year ending Dec 2017,:,Mean
+E01004261,Tower Hamlets 010A,Year ending Dec 2017,,Mean
 E01004262,Tower Hamlets 010B,Year ending Dec 2017,497786,Mean
-E01004263,Tower Hamlets 007C,Year ending Dec 2017,:,Mean
-E01004264,Tower Hamlets 010C,Year ending Dec 2017,:,Mean
+E01004263,Tower Hamlets 007C,Year ending Dec 2017,,Mean
+E01004264,Tower Hamlets 010C,Year ending Dec 2017,,Mean
 E01004266,Tower Hamlets 007D,Year ending Dec 2017,633571,Mean
 E01004267,Tower Hamlets 012D,Year ending Dec 2017,381304,Mean
-E01004268,Tower Hamlets 012E,Year ending Dec 2017,:,Mean
+E01004268,Tower Hamlets 012E,Year ending Dec 2017,,Mean
 E01004269,Tower Hamlets 014A,Year ending Dec 2017,516075,Mean
 E01004270,Tower Hamlets 014B,Year ending Dec 2017,498500,Mean
 E01004271,Tower Hamlets 014C,Year ending Dec 2017,452780,Mean
@@ -4177,10 +4177,10 @@ E01004280,Tower Hamlets 032A,Year ending Dec 2017,518625,Mean
 E01004281,Tower Hamlets 031D,Year ending Dec 2017,409739,Mean
 E01004283,Tower Hamlets 016A,Year ending Dec 2017,457050,Mean
 E01004284,Tower Hamlets 019A,Year ending Dec 2017,429491,Mean
-E01004285,Tower Hamlets 019B,Year ending Dec 2017,:,Mean
-E01004286,Tower Hamlets 019C,Year ending Dec 2017,:,Mean
+E01004285,Tower Hamlets 019B,Year ending Dec 2017,,Mean
+E01004286,Tower Hamlets 019C,Year ending Dec 2017,,Mean
 E01004287,Tower Hamlets 016B,Year ending Dec 2017,509750,Mean
-E01004288,Tower Hamlets 019D,Year ending Dec 2017,:,Mean
+E01004288,Tower Hamlets 019D,Year ending Dec 2017,,Mean
 E01004289,Tower Hamlets 016C,Year ending Dec 2017,691400,Mean
 E01004290,Tower Hamlets 016D,Year ending Dec 2017,458000,Mean
 E01004291,Tower Hamlets 027A,Year ending Dec 2017,916310,Mean
@@ -4190,14 +4190,14 @@ E01004294,Tower Hamlets 026B,Year ending Dec 2017,928872,Mean
 E01004295,Tower Hamlets 026C,Year ending Dec 2017,428800,Mean
 E01004296,Tower Hamlets 026D,Year ending Dec 2017,441841,Mean
 E01004297,Tower Hamlets 027C,Year ending Dec 2017,766100,Mean
-E01004298,Tower Hamlets 022A,Year ending Dec 2017,:,Mean
+E01004298,Tower Hamlets 022A,Year ending Dec 2017,,Mean
 E01004300,Tower Hamlets 022B,Year ending Dec 2017,441600,Mean
 E01004301,Tower Hamlets 025B,Year ending Dec 2017,410396,Mean
-E01004302,Tower Hamlets 025C,Year ending Dec 2017,:,Mean
+E01004302,Tower Hamlets 025C,Year ending Dec 2017,,Mean
 E01004303,Tower Hamlets 025D,Year ending Dec 2017,543906,Mean
-E01004304,Tower Hamlets 022C,Year ending Dec 2017,:,Mean
+E01004304,Tower Hamlets 022C,Year ending Dec 2017,,Mean
 E01004305,Tower Hamlets 022D,Year ending Dec 2017,437506,Mean
-E01004306,Tower Hamlets 015A,Year ending Dec 2017,:,Mean
+E01004306,Tower Hamlets 015A,Year ending Dec 2017,,Mean
 E01004307,Tower Hamlets 015B,Year ending Dec 2017,726288,Mean
 E01004308,Tower Hamlets 015C,Year ending Dec 2017,601017,Mean
 E01004309,Tower Hamlets 015D,Year ending Dec 2017,452110,Mean
@@ -4548,12 +4548,12 @@ E01004660,Westminster 008B,Year ending Dec 2017,1641780,Mean
 E01004661,Westminster 012C,Year ending Dec 2017,951933,Mean
 E01004662,Westminster 012D,Year ending Dec 2017,1304408,Mean
 E01004663,Westminster 012E,Year ending Dec 2017,1595765,Mean
-E01004665,Westminster 024A,Year ending Dec 2017,:,Mean
+E01004665,Westminster 024A,Year ending Dec 2017,,Mean
 E01004666,Westminster 023B,Year ending Dec 2017,1630892,Mean
 E01004667,Westminster 023C,Year ending Dec 2017,1043225,Mean
 E01004668,Westminster 023D,Year ending Dec 2017,1027083,Mean
 E01004669,Westminster 024B,Year ending Dec 2017,559014,Mean
-E01004670,Westminster 009A,Year ending Dec 2017,:,Mean
+E01004670,Westminster 009A,Year ending Dec 2017,,Mean
 E01004674,Westminster 005A,Year ending Dec 2017,847500,Mean
 E01004675,Westminster 005B,Year ending Dec 2017,475273,Mean
 E01004676,Westminster 006A,Year ending Dec 2017,640143,Mean
@@ -4588,7 +4588,7 @@ E01004706,Westminster 006B,Year ending Dec 2017,886389,Mean
 E01004707,Westminster 006C,Year ending Dec 2017,1268925,Mean
 E01004708,Westminster 006D,Year ending Dec 2017,649559,Mean
 E01004709,Westminster 007E,Year ending Dec 2017,1333047,Mean
-E01004710,Westminster 002D,Year ending Dec 2017,:,Mean
+E01004710,Westminster 002D,Year ending Dec 2017,,Mean
 E01004711,Westminster 002E,Year ending Dec 2017,706136,Mean
 E01004712,Westminster 008C,Year ending Dec 2017,4284276,Mean
 E01004713,Westminster 011A,Year ending Dec 2017,1507368,Mean
@@ -4610,21 +4610,21 @@ E01004728,Westminster 003D,Year ending Dec 2017,642991,Mean
 E01004729,Westminster 003E,Year ending Dec 2017,1401615,Mean
 E01004730,Westminster 001D,Year ending Dec 2017,1906547,Mean
 E01004731,Westminster 020A,Year ending Dec 2017,1709997,Mean
-E01004732,Westminster 020B,Year ending Dec 2017,:,Mean
+E01004732,Westminster 020B,Year ending Dec 2017,,Mean
 E01004733,Westminster 020C,Year ending Dec 2017,1402615,Mean
 E01004734,Westminster 018A,Year ending Dec 2017,1186019,Mean
 E01004735,Westminster 018B,Year ending Dec 2017,2335004,Mean
 E01004736,Westminster 018C,Year ending Dec 2017,3087045,Mean
 E01004737,Westminster 024C,Year ending Dec 2017,1495417,Mean
 E01004738,Westminster 024D,Year ending Dec 2017,1070531,Mean
-E01004739,Westminster 024E,Year ending Dec 2017,:,Mean
+E01004739,Westminster 024E,Year ending Dec 2017,,Mean
 E01004740,Westminster 021A,Year ending Dec 2017,615279,Mean
 E01004741,Westminster 024F,Year ending Dec 2017,537100,Mean
 E01004742,Westminster 022A,Year ending Dec 2017,1089667,Mean
 E01004743,Westminster 021B,Year ending Dec 2017,714933,Mean
 E01004744,Westminster 020D,Year ending Dec 2017,1107156,Mean
 E01004745,Westminster 021C,Year ending Dec 2017,1708808,Mean
-E01004746,Westminster 021D,Year ending Dec 2017,:,Mean
+E01004746,Westminster 021D,Year ending Dec 2017,,Mean
 E01004747,Westminster 021E,Year ending Dec 2017,1172523,Mean
 E01004748,Westminster 020E,Year ending Dec 2017,1469750,Mean
 E01004749,Westminster 022B,Year ending Dec 2017,1039915,Mean
@@ -4632,7 +4632,7 @@ E01004750,Westminster 023E,Year ending Dec 2017,1239591,Mean
 E01004751,Westminster 022C,Year ending Dec 2017,1184288,Mean
 E01004752,Westminster 022D,Year ending Dec 2017,787917,Mean
 E01004753,Westminster 022E,Year ending Dec 2017,763478,Mean
-E01004754,Westminster 010A,Year ending Dec 2017,:,Mean
+E01004754,Westminster 010A,Year ending Dec 2017,,Mean
 E01004755,Westminster 010B,Year ending Dec 2017,669679,Mean
 E01004756,Westminster 006E,Year ending Dec 2017,634077,Mean
 E01004757,Westminster 010C,Year ending Dec 2017,887636,Mean
@@ -4642,7 +4642,7 @@ E01004762,Westminster 011E,Year ending Dec 2017,5216125,Mean
 E01004763,Westminster 013B,Year ending Dec 2017,1546636,Mean
 E01004765,Westminster 013D,Year ending Dec 2017,2615000,Mean
 E01032512,Westminster 010F,Year ending Dec 2017,405929,Mean
-E01032513,Westminster 010G,Year ending Dec 2017,:,Mean
+E01032513,Westminster 010G,Year ending Dec 2017,,Mean
 E01032562,Bromley 040D,Year ending Dec 2017,342556,Mean
 E01032563,Bromley 040E,Year ending Dec 2017,646037,Mean
 E01032564,Lewisham 037E,Year ending Dec 2017,328143,Mean
@@ -4655,7 +4655,7 @@ E01032570,Bromley 042D,Year ending Dec 2017,371554,Mean
 E01032572,Ealing 040D,Year ending Dec 2017,744750,Mean
 E01032573,Hounslow 029E,Year ending Dec 2017,791731,Mean
 E01032574,Enfield 037E,Year ending Dec 2017,369577,Mean
-E01032575,Haringey 037D,Year ending Dec 2017,:,Mean
+E01032575,Haringey 037D,Year ending Dec 2017,,Mean
 E01032576,Harrow 032E,Year ending Dec 2017,461455,Mean
 E01032577,Hillingdon 033E,Year ending Dec 2017,541925,Mean
 E01032579,Lewisham 039E,Year ending Dec 2017,443420,Mean
@@ -4714,7 +4714,7 @@ E01033030,Hounslow 025G,Year ending Dec 2017,238793,Mean
 E01033081,Hounslow 003F,Year ending Dec 2017,464758,Mean
 E01033082,Hounslow 003G,Year ending Dec 2017,374746,Mean
 E01033083,Hounslow 018F,Year ending Dec 2017,293870,Mean
-E01033084,Hounslow 018G,Year ending Dec 2017,:,Mean
+E01033084,Hounslow 018G,Year ending Dec 2017,,Mean
 E01033085,Haringey 020E,Year ending Dec 2017,383656,Mean
 E01033086,Haringey 020F,Year ending Dec 2017,511735,Mean
 E01033093,Wandsworth 010F,Year ending Dec 2017,695695,Mean
@@ -4725,7 +4725,7 @@ E01033101,Wandsworth 004F,Year ending Dec 2017,927161,Mean
 E01033132,Wandsworth 002H,Year ending Dec 2017,876014,Mean
 E01033133,Wandsworth 004G,Year ending Dec 2017,642853,Mean
 E01033135,Wandsworth 010G,Year ending Dec 2017,777840,Mean
-E01033146,Enfield 025F,Year ending Dec 2017,:,Mean
+E01033146,Enfield 025F,Year ending Dec 2017,,Mean
 E01033148,Enfield 003F,Year ending Dec 2017,321167,Mean
 E01033150,Enfield 003G,Year ending Dec 2017,269152,Mean
 E01033151,Enfield 025G,Year ending Dec 2017,324000,Mean
@@ -4739,13 +4739,13 @@ E01033325,Lewisham 008F,Year ending Dec 2017,384945,Mean
 E01033327,Lewisham 012F,Year ending Dec 2017,415729,Mean
 E01033341,Lewisham 012G,Year ending Dec 2017,329250,Mean
 E01033424,Brent 017F,Year ending Dec 2017,454791,Mean
-E01033455,Brent 031G,Year ending Dec 2017,:,Mean
-E01033456,Brent 027F,Year ending Dec 2017,:,Mean
-E01033457,Brent 017G,Year ending Dec 2017,:,Mean
+E01033455,Brent 031G,Year ending Dec 2017,,Mean
+E01033456,Brent 027F,Year ending Dec 2017,,Mean
+E01033457,Brent 017G,Year ending Dec 2017,,Mean
 E01033463,Brent 003G,Year ending Dec 2017,559400,Mean
 E01033464,Brent 010F,Year ending Dec 2017,500958,Mean
 E01033485,Brent 031H,Year ending Dec 2017,509209,Mean
-E01033486,Islington 011E,Year ending Dec 2017,:,Mean
+E01033486,Islington 011E,Year ending Dec 2017,,Mean
 E01033487,Islington 011F,Year ending Dec 2017,440164,Mean
 E01033488,Islington 011G,Year ending Dec 2017,488000,Mean
 E01033489,Islington 022G,Year ending Dec 2017,1080764,Mean
@@ -4770,7 +4770,7 @@ E01033580,Newham 037F,Year ending Dec 2017,443250,Mean
 E01033581,Newham 037G,Year ending Dec 2017,390529,Mean
 E01033582,Newham 037H,Year ending Dec 2017,345294,Mean
 E01033583,Newham 013G,Year ending Dec 2017,516225,Mean
-E01033584,Newham 034I,Year ending Dec 2017,:,Mean
+E01033584,Newham 034I,Year ending Dec 2017,,Mean
 E01033585,Newham 034J,Year ending Dec 2017,397597,Mean
 E01033586,Newham 013H,Year ending Dec 2017,366364,Mean
 E01033587,Barking and Dagenham 021E,Year ending Dec 2017,235100,Mean
@@ -4784,14 +4784,14 @@ E01033594,Westminster 015G,Year ending Dec 2017,1440000,Mean
 E01033595,Westminster 013E,Year ending Dec 2017,4083760,Mean
 E01033596,Westminster 013F,Year ending Dec 2017,2152575,Mean
 E01033597,Westminster 023F,Year ending Dec 2017,1005700,Mean
-E01033598,Westminster 009F,Year ending Dec 2017,:,Mean
+E01033598,Westminster 009F,Year ending Dec 2017,,Mean
 E01033599,Westminster 023G,Year ending Dec 2017,371917,Mean
 E01033600,Westminster 007F,Year ending Dec 2017,936329,Mean
-E01033601,Westminster 009G,Year ending Dec 2017,:,Mean
-E01033602,Westminster 009H,Year ending Dec 2017,:,Mean
+E01033601,Westminster 009G,Year ending Dec 2017,,Mean
+E01033602,Westminster 009H,Year ending Dec 2017,,Mean
 E01033603,Westminster 009I,Year ending Dec 2017,924167,Mean
 E01033604,Westminster 009J,Year ending Dec 2017,566857,Mean
-E01033605,Westminster 009K,Year ending Dec 2017,:,Mean
+E01033605,Westminster 009K,Year ending Dec 2017,,Mean
 E01033606,Westminster 014F,Year ending Dec 2017,895107,Mean
 E01033607,Westminster 014G,Year ending Dec 2017,1343545,Mean
 E01033608,Westminster 007G,Year ending Dec 2017,1001643,Mean
