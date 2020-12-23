@@ -1,2 +1,2 @@
 # Spatial-Data-Analysis
-MSc Urban Informatics 2019/20 term 2
+MSc Urban Informatics 2020/21 term 2
