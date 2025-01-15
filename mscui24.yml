@@ -1,0 +1,78 @@
+# OVERVIEW
+# This YAML script will attempt to install a Python virtual environment able to
+# support the requirements of Spatial Data Analysis module for MSc Urban Informatics Programme.
+#
+# INSTALLATION
+# Note that, in the example commands below, you will need to replace {name} by the name
+# value specified as a configuration parameter below (the first line that does *not*
+# start with a hash (#). All the commands below should be run from the Terminal.
+#
+# 
+# To help for faster setup, set mamba as the default environment solver by typing code 
+# (in the Anaconda Prompt on Windows, or Terminal on Mac):
+#   conda install -n base conda-libmamba-solver
+#   when ask, type "y" to proceed
+#   conda config --set solver libmamba
+# 
+# If you've already installed this environment before:
+#   conda remove --name {name} --all
+#
+# To install/reinstall the environment:
+#   conda env create -f mscui24.yml
+#
+# To activate the environment:
+#   conda activate mscui24
+#
+# CONFIGURATION PARAMETERS
+name: mscui24
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip 
+  - jupyter
+  - jupyterlab
+  - cartopy
+  - descartes
+  - dill
+  - earthpy
+  - folium
+  - fiona=1.9.6
+  - gdal
+  - geojson
+  - geopandas=0.13.2
+  - googlemaps
+  - libpysal
+  - mapclassify
+  - matplotlib
+  - mgwr
+  - networkx
+  - nltk
+  - nodejs
+  - numpy=1.26.4
+  - osmnx=1.9.4
+  - palettable
+  - pandas=2.2.2
+  - pandana
+  - pathlib
+  - patsy
+  - pip
+  - plotly
+  - pointpats
+  - polyline
+  - pykrige
+  - pysal=23.7
+  - pyshp
+  - rasterio
+  - rasterstats
+  - requests
+  - scikit-learn
+  - scikit-image
+  - scipy
+  - seaborn
+  - shapely
+  - simplejson
+  - smopy
+  - spreg
+  - statsmodels
+  - urbanaccess
